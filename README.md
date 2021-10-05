@@ -1,2 +1,2 @@
 # bmstu_db
-Data Bases
+Data Bases BMSTU 2021/2022

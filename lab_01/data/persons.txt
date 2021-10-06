@@ -1,0 +1,3000 @@
+Donella,Drake,f,1957,Chile
+Drew,Schwartz,m,1964,Saint Helena
+Gil,Valenzuela,m,1956,Israel
+Abram,Watson,m,1962,Thailand
+Stephnie,Barry,f,1952,Anguilla
+Mitchell,Howell,m,1960,Solomon Islands
+Desirae,Wilkerson,f,1961,South Africa
+Huong,Anthony,f,1957,Niue
+Winfred,Hurst,m,1950,Niue
+Steven,Wells,m,1964,Liberia
+Joey,Valdez,m,1950,Singapore
+Azzie,Golden,f,1971,Vietnam
+Raymon,Russo,m,1953,Cuba
+Byron,Waller,m,1954,Lesotho
+Calvin,Weiss,m,1957,Somalia
+Lakiesha,Parks,f,1956,United States Virgin Islands
+Creola,Larsen,f,1978,San Marino
+Enoch,Mccoy,m,1973,Azerbaijan
+Zenobia,Mann,f,1951,Grenada
+Sima,Chang,f,1961,Slovakia (Slovak Republic)
+Eric,Dale,f,1950,Puerto Rico
+Dorsey,Wells,m,1973,American Samoa
+Tifany,Lyons,f,1953,Bolivia
+Shu,Jarvis,f,1976,Liberia
+Simona,Maddox,f,1955,Saudi Arabia
+Clinton,Mcclain,m,1953,Slovenia
+Shannon,Freeman,m,1959,Central African Republic
+Calvin,Joseph,m,1972,Algeria
+Marivel,Cleveland,f,1985,Namibia
+Omer,Moses,m,1978,Libyan Arab Jamahiriya
+Jon,Mcmahon,m,1972,Lao People's Democratic Republic
+Micah,Morris,f,1950,Armenia
+Edda,Abbott,f,1954,Haiti
+Stanford,Hooper,m,1956,Taiwan
+Orval,Black,m,1954,Anguilla
+Lisbeth,Zamora,f,1984,Tajikistan
+Darrin,Moses,m,1968,Serbia
+Roland,Forbes,m,1995,Ethiopia
+Hong,Yang,m,1973,Papua New Guinea
+Nelia,Matthews,f,1970,Macao
+Jeanelle,Irwin,f,1960,Cameroon
+Lenita,Strickland,f,1984,Somalia
+Graham,Harmon,m,1980,Oman
+Tilda,West,f,1954,Palestinian Territory
+Alverta,Workman,f,1952,Bermuda
+Fernanda,Young,f,1967,Benin
+Barabara,Woods,f,1955,Uganda
+Rosamond,Whitehead,f,1960,Niue
+Many,Frye,f,1952,Pakistan
+Devon,Hopkins,m,1957,Mali
+Margene,Neal,f,1980,Yemen
+Emmanuel,Moreno,m,1952,Paraguay
+Marlen,Merrill,f,1963,Tokelau
+Javier,Kelley,m,1969,Botswana
+Robt,Schmidt,m,1951,Russian Federation
+Jesse,Tanner,m,1967,Nigeria
+Reed,Moreno,m,1983,Trinidad and Tobago
+Yoko,Pugh,f,1951,Guatemala
+Boyd,Herring,m,1958,Japan
+Floretta,Powers,f,1952,Liechtenstein
+Youlanda,Schultz,f,1953,Austria
+Madalene,Sanchez,f,1976,Montserrat
+Chadwick,Faulkner,m,1982,Burundi
+Asa,Deleon,m,1957,Turks and Caicos Islands
+Alphonso,Benson,m,1956,United Arab Emirates
+Stephane,Vargas,f,1956,Vanuatu
+Thomas,Hill,m,1953,Malaysia
+Mikki,Schultz,f,1958,Malawi
+Jamie,Lyons,m,1950,Tajikistan
+Lyndon,Vinson,m,1956,Northern Mariana Islands
+Bryant,Robinson,m,1956,Norway
+Joana,Collins,f,1971,Congo
+Harvey,Bishop,m,1964,Peru
+Robin,Morton,m,1953,Norway
+Errol,Nelson,m,1957,Azerbaijan
+Sol,Barnes,f,1967,Czech Republic
+Julieann,Pope,f,1952,Moldova
+Veola,Lindsey,f,1951,Cameroon
+Ka,Rich,f,1981,American Samoa
+Pete,Ballard,m,1966,Falkland Islands (Malvinas)
+Loyd,Clayton,m,1962,Nigeria
+Chere,Dominguez,f,1950,Puerto Rico
+Shelton,Justice,m,1962,Liechtenstein
+Claude,Farmer,m,1950,Uzbekistan
+Felix,Harrington,m,1967,Yemen
+Xavier,Tran,m,1963,Ireland
+Kelly,Durham,m,1955,Western Sahara
+Willis,Montoya,m,1967,Jamaica
+Manda,Wolf,f,1957,Guyana
+Cleo,Collier,m,1975,Poland
+Particia,Stout,f,1953,Sao Tome and Principe
+Vince,Barrera,m,1952,Colombia
+Jarvis,Mcclain,m,1956,Holy See (Vatican City State)
+Asley,Christian,f,1976,Malaysia
+Darrick,Alexander,m,1955,New Caledonia
+Claretta,Grant,f,1951,French Polynesia
+Kip,Welch,m,1955,Uruguay
+Verlene,Cotton,f,1990,Mauritius
+Sommer,Clarke,f,1964,Monaco
+Hal,Jackson,m,1952,Rwanda
+Mark,Crawford,m,1959,Luxembourg
+Soraya,Brock,f,1962,British Virgin Islands
+Alva,Joyner,m,1965,Afghanistan
+Yong,Williams,m,1996,Morocco
+Earleen,Murphy,f,1954,Malta
+Steve,Charles,m,1964,Liberia
+Joane,Martinez,f,1957,Somalia
+Rene,O'connor,m,1970,Sweden
+Tarra,Dillon,f,1952,Denmark
+Millard,Bryant,m,1960,Sierra Leone
+Tory,Avery,m,1972,American Samoa
+Archie,Leblanc,m,1959,Ethiopia
+Loria,Little,f,1952,Grenada
+Nelson,Aguilar,m,1980,Canada
+Irving,Swanson,m,1978,Puerto Rico
+Carmina,Buckley,f,1950,Czech Republic
+Serafina,Huffman,f,1956,Svalbard & Jan Mayen Islands
+Eloy,Strong,m,1993,Guatemala
+Dyan,Langley,f,1975,Sierra Leone
+Laine,Buck,f,1950,Cameroon
+Leland,Reyes,m,1968,Central African Republic
+Gonzalo,Shepard,m,1965,Indonesia
+Tammara,Myers,f,1990,Tunisia
+Robby,Stafford,m,1950,New Zealand
+Kelley,Sharp,m,1955,Switzerland
+Luciano,Cote,m,1962,Andorra
+Chi,Burch,f,1964,France
+Shirl,Mcdaniel,f,1989,Ukraine
+Raul,Buckner,m,1952,Myanmar
+Abe,Palmer,m,1975,Nicaragua
+Yuette,Hendricks,f,1956,Lao People's Democratic Republic
+Margarett,Chang,f,1962,United States Minor Outlying Islands
+Stevie,Albert,f,1974,Nicaragua
+Buford,Beard,m,1987,French Guiana
+Buster,Walters,m,1965,British Indian Ocean Territory (Chagos Archipelago)
+Chara,Parsons,f,1967,Bermuda
+Chery,Ayers,f,1958,Israel
+Silas,Cohen,m,1950,Guinea-Bissau
+Otis,Buchanan,m,1955,Mayotte
+Darrel,Olsen,m,1960,China
+Particia,Mcclain,f,1956,Vanuatu
+Sharell,Pacheco,f,1952,Comoros
+Dalton,Lynch,m,1962,Turkmenistan
+Lyle,Mercado,m,1962,Mauritania
+Jeramy,Kirkland,m,1967,Jamaica
+Madaline,Wilder,f,1954,Palestinian Territory
+Moses,Morris,m,1967,Lesotho
+Un,Jones,f,1967,Tuvalu
+Jeff,Shannon,m,1957,Romania
+Gil,Baldwin,m,1957,Martinique
+Zenia,Evans,f,2000,Nicaragua
+Ezra,Mcmillan,m,1966,Netherlands
+Marcellus,Wallace,m,1960,Uganda
+Zachariah,Jefferson,m,1959,Cote d'Ivoire
+Rachal,Langley,f,1971,Croatia
+Keith,Leon,f,1956,Belarus
+Jesus,Baird,f,1973,Chad
+Elvin,Forbes,m,1975,Grenada
+Felipe,Montgomery,m,1954,Montenegro
+Tobias,Wyatt,m,1960,Bhutan
+Milo,Lowe,m,1977,Bahamas
+Tashina,Burnett,f,1989,Grenada
+Duncan,Petersen,m,1952,Comoros
+Evelyne,Anderson,f,1988,Senegal
+Rema,Gray,f,1987,Gibraltar
+Johnny,Davenport,m,1957,Anguilla
+Archie,Bishop,m,1993,Zimbabwe
+Antonina,Haley,f,1960,Iceland
+Devona,Rivera,f,1967,Azerbaijan
+Young,Santana,m,1966,Saint Vincent and the Grenadines
+Reinaldo,Arnold,m,1956,Sweden
+Adaline,Horne,f,1972,Saudi Arabia
+Houston,Austin,m,1977,Morocco
+Darius,William,m,1958,Senegal
+Ezekiel,Beasley,m,1993,French Polynesia
+Winter,Oliver,f,1965,Turkmenistan
+Agustin,Morgan,m,1958,Japan
+Deandrea,Patton,f,1959,Cape Verde
+Shanita,Dyer,f,1955,Greece
+Neville,Mckenzie,m,1950,French Southern Territories
+Jarrett,Pena,m,1962,Rwanda
+Norman,Burch,f,1969,Lithuania
+Mertie,Ellis,f,1956,New Zealand
+Mel,Gould,m,1988,Marshall Islands
+Porsha,Meyers,f,1961,Isle of Man
+Shila,Burks,f,1982,Marshall Islands
+Monserrate,Haynes,f,1965,Korea
+Les,Garner,m,1957,Poland
+Renaldo,Hendrix,m,1954,Moldova
+Rosamond,Love,f,1963,Azerbaijan
+Tijuana,Britt,f,1950,Indonesia
+Merilyn,Mathews,f,1952,Norway
+Devin,Bryan,m,1968,French Polynesia
+Val,Burt,f,1990,Croatia
+Clarine,Chen,f,1950,Malawi
+Weldon,Lindsay,m,1958,Tuvalu
+Meggan,Holland,f,1953,Uganda
+Annika,Lott,f,1961,Bosnia and Herzegovina
+Misha,Hernandez,f,1954,Albania
+Dwana,Horne,f,1970,Cyprus
+Loriann,Owen,f,1966,Iraq
+Idell,Fulton,f,1955,Madagascar
+Seymour,Valentine,m,1962,Burundi
+Mariano,Wilder,m,1964,Greece
+Hugh,Ortiz,m,1976,Central African Republic
+Irvin,Schmidt,m,1974,Romania
+Brynn,Duke,f,1979,Greenland
+Jonathon,Bradshaw,m,1969,Kiribati
+Magaret,Wong,f,1985,Cocos (Keeling) Islands
+Jackelyn,Fitzpatrick,f,1956,Montenegro
+Babara,Townsend,f,1966,Zimbabwe
+Glynda,Sharp,f,1957,Belize
+Theron,Dorsey,m,1960,Bangladesh
+Randall,Nolan,m,1969,Iraq
+Joannie,Castillo,f,1960,Madagascar
+Malcolm,Mckee,m,1954,Somalia
+Joel,Barlow,f,1960,Andorra
+Elin,Maddox,f,1977,Palestinian Territory
+Richard,Gonzalez,m,1978,Austria
+Kenyetta,Rasmussen,f,1955,Myanmar
+Lannie,Lancaster,f,1961,Uzbekistan
+Francene,Conway,f,1953,Montenegro
+Cammy,Walls,f,1951,Belarus
+Rory,Head,m,1953,Burundi
+Bryce,Larson,m,1954,New Zealand
+Jeffry,Morris,m,1958,Zambia
+Emerson,Lester,m,1972,Central African Republic
+Marcel,Carney,m,1985,Niue
+Madlyn,Petty,f,1962,United Arab Emirates
+Agueda,Rogers,f,1960,Niue
+Cliff,Dixon,m,1954,Cameroon
+Elijah,Hardy,m,1952,Sri Lanka
+Tad,Guzman,m,1957,Ukraine
+Wesley,Stanton,f,1956,Saint Kitts and Nevis
+Billy,Garner,m,1964,Mongolia
+Carolynn,Massey,f,1957,Belize
+Patrina,Levine,f,1950,Dominican Republic
+Desmond,Montoya,m,1967,Burundi
+Diego,Cotton,m,1964,Taiwan
+Arnulfo,Miles,m,1951,Peru
+Charlsie,Shepard,f,1959,Swaziland
+Cliff,Henry,m,1952,Maldives
+Monte,Crosby,m,1951,Cambodia
+Stuart,Craig,m,1995,Burkina Faso
+Ela,Peck,f,1968,Jersey
+Fumiko,Chen,f,1978,Tunisia
+Ula,Lambert,f,1962,Nicaragua
+Clifford,Maldonado,m,1983,Ireland
+Sandy,Crosby,m,1973,China
+Nicholle,Mccarthy,f,1954,Cuba
+Emile,Peck,m,1956,Cuba
+Ossie,Soto,f,1951,Tonga
+Stevie,Salinas,m,1950,Myanmar
+Deshawn,Deleon,m,1960,Bolivia
+Lavone,Moon,f,1969,United States of America
+Syreeta,Blair,f,1953,Palau
+Walter,Simon,f,1955,Nicaragua
+Federico,Stanton,m,1976,Albania
+Georgetta,Summers,f,1959,Myanmar
+Zulma,Bruce,f,1950,Bermuda
+Allen,Lewis,m,1962,Guatemala
+David,Chandler,m,1957,Belarus
+Genny,Rowland,f,1955,British Indian Ocean Territory (Chagos Archipelago)
+Jeremy,Blackwell,f,1958,Russian Federation
+Maurice,Stark,f,1982,Guadeloupe
+Troy,Brown,m,1964,Reunion
+Loni,Pena,f,1955,Solomon Islands
+Lanora,Butler,f,1974,Saudi Arabia
+Hollis,Mccray,f,1950,South Africa
+Belia,Hobbs,f,1965,Iceland
+Renay,Knight,f,1953,Saint Vincent and the Grenadines
+Joannie,Harper,f,1959,Nicaragua
+Lacy,Montoya,m,1958,Latvia
+Curt,Morrison,m,1975,Argentina
+Marlon,Huff,m,1958,Bosnia and Herzegovina
+Elias,Le,m,1981,Maldives
+Mistie,Gross,f,1954,Antarctica (the territory South of 60 deg S)
+Richard,Bryant,m,1953,Bolivia
+Graig,Perry,m,1967,Andorra
+Anibal,Rowland,m,1967,Botswana
+Sharmaine,Eaton,f,1972,Barbados
+Edgardo,Aguirre,m,1966,Russian Federation
+Dalila,Velasquez,f,1950,Kyrgyz Republic
+Willetta,Myers,f,1955,Qatar
+Vincenzo,Cherry,m,1952,Azerbaijan
+Willie,Byrd,m,1990,Vanuatu
+Sergio,Kennedy,m,1952,Iraq
+Vertie,Armstrong,f,1951,Wallis and Futuna
+Maire,Hodges,f,1985,Albania
+Willena,Montoya,f,1969,Comoros
+Bret,Head,m,1953,Estonia
+Demarcus,Sutton,m,1955,Saint Martin
+Lashawnda,Whitehead,f,1968,Tokelau
+Gerry,Poole,m,1965,Yemen
+Retta,Holt,f,1977,Puerto Rico
+Sacha,Miles,f,1955,British Virgin Islands
+Lonnie,Alston,m,1960,Uruguay
+Weston,Hudson,m,1952,Bulgaria
+Dwight,Peck,m,1959,Egypt
+Morris,Gillespie,m,1954,Pakistan
+Karma,Sosa,f,1954,Turkey
+Halley,Moses,f,1952,Switzerland
+Jarrett,Parks,m,1963,Zambia
+Delicia,Mann,f,1970,Vanuatu
+Kasha,Holmes,f,1962,Mexico
+Carmina,Morton,f,1953,Mongolia
+Marquitta,Higgins,f,1954,Palau
+Deetta,Singleton,f,1964,Liechtenstein
+Pei,Calhoun,f,1963,Saint Helena
+Cleveland,Sears,m,1960,Gambia
+Noella,Harris,f,1992,Jordan
+Shan,Cervantes,f,1980,Isle of Man
+Alica,Rios,f,1962,Djibouti
+Lawrence,Hardin,m,1951,Mauritius
+Elisha,Townsend,m,1975,Antarctica (the territory South of 60 deg S)
+Cherlyn,Osborn,f,1976,Iceland
+Fernande,Bond,f,1955,Kyrgyz Republic
+Carli,Shannon,f,1963,Senegal
+Bree,Bauer,f,1971,Zimbabwe
+Beula,Witt,f,1956,Saint Pierre and Miquelon
+Brett,Haynes,f,1955,Nauru
+Joana,Fuller,f,1954,Djibouti
+Leopoldo,Welch,m,1968,Libyan Arab Jamahiriya
+Laquanda,Armstrong,f,1976,Finland
+Filiberto,Colon,m,1980,Costa Rica
+Nicolas,Colon,m,1956,Niger
+Jordon,Rosario,m,1974,Nauru
+Bernarda,Francis,f,1963,Canada
+Yanira,Sparks,f,1956,Bulgaria
+Wiley,Madden,m,1974,Czech Republic
+Ling,Dickerson,f,1951,Montenegro
+Hong,Reyes,m,1956,Seychelles
+Shane,Pacheco,f,1954,Solomon Islands
+Colin,Battle,m,1963,Timor-Leste
+Temeka,Pena,f,1961,Bahrain
+Mose,Ross,m,1971,Luxembourg
+Carolin,Ochoa,f,1987,Taiwan
+Eugene,Reed,m,1955,Azerbaijan
+Etha,Graves,f,2002,Slovenia
+Verdell,Shaw,f,1969,Uruguay
+Trula,Singleton,f,1959,Finland
+Ellis,Farrell,m,1950,Romania
+Emile,Wiley,m,1967,Singapore
+Letisha,Marks,f,1950,Nigeria
+Wyatt,Hinton,m,1954,Anguilla
+Tommie,Fuentes,m,1965,Syrian Arab Republic
+Kasey,Schroeder,m,1957,Equatorial Guinea
+Sharan,Everett,f,1951,Russian Federation
+Sirena,Hewitt,f,1962,Ecuador
+Evan,Hill,f,1950,Spain
+Tammera,Weeks,f,1966,Jamaica
+Brice,Carver,m,1960,Seychelles
+Napoleon,Mccall,m,1951,Saint Martin
+Ossie,Bender,f,1975,Japan
+Reyes,Franks,m,1966,India
+Malik,Sloan,m,1971,French Southern Territories
+Erin,Powell,m,1952,Panama
+Eura,Irwin,f,1979,Mayotte
+Trenton,Jackson,m,1961,Gabon
+Dalton,Wood,m,1953,Mauritania
+Shay,Riddle,f,1963,Ukraine
+Haywood,Bernard,m,1952,Micronesia
+Kum,Hardy,f,1972,Nigeria
+Donetta,West,f,1954,Bulgaria
+Jimmy,Mccullough,f,1959,Lithuania
+Lavone,Hardin,f,1974,Cape Verde
+Anisa,Nguyen,f,1959,Saint Vincent and the Grenadines
+Chadwick,Kelly,m,1954,Papua New Guinea
+Keven,Holt,m,1963,Turks and Caicos Islands
+Anjanette,O'donnell,f,1961,Zambia
+Brock,Phelps,m,1958,Saint Pierre and Miquelon
+Rickie,Galloway,m,1952,Kenya
+Geoffrey,Holder,m,1963,Puerto Rico
+Cathey,Boyer,f,1954,Hungary
+Jasper,Zamora,m,1972,Micronesia
+Clifford,Merritt,m,1996,San Marino
+Leia,Barr,f,1972,Spain
+Coreen,Bradford,f,1997,Comoros
+Tory,Woods,m,1964,Slovenia
+Rico,Perez,m,1978,Korea
+Jerica,Brooks,f,1955,Burundi
+Abe,Flores,m,1951,Kiribati
+Genesis,Leon,f,1950,Kenya
+Tandy,Banks,f,1952,Niue
+Eddie,Watson,m,1980,Martinique
+Buddy,Lindsay,m,1956,Maldives
+Randy,Bryan,m,1959,Kyrgyz Republic
+Clorinda,Livingston,f,1971,Belize
+Quiana,Phelps,f,1955,Bahrain
+Etsuko,Osborn,f,1953,Djibouti
+Ty,Farley,m,1958,Svalbard & Jan Mayen Islands
+Richie,Frank,m,1956,Uruguay
+Solomon,Acevedo,m,1976,Uganda
+Teodora,Nielsen,f,1953,Puerto Rico
+Edgar,Kent,m,1972,Japan
+Ambrose,Foley,m,1971,Congo
+Tyler,Jennings,f,1980,Macedonia
+Johanne,Cruz,f,1962,Cote d'Ivoire
+Lilla,Moreno,f,1951,Bolivia
+Weston,Vinson,m,1964,Swaziland
+Lurline,Carter,f,1964,Greenland
+Lenita,Clemons,f,1964,Argentina
+Floria,Ward,f,1968,Dominica
+Kaylene,Wagner,f,1985,Netherlands
+Rico,Maddox,m,1956,Namibia
+Edmundo,Poole,m,1959,Bulgaria
+Mathew,Black,m,1952,Saint Kitts and Nevis
+Suzi,Hamilton,f,1965,Anguilla
+Reuben,Wolfe,m,1953,Norway
+Tequila,Cervantes,f,1971,Wallis and Futuna
+Antonio,Haney,m,1973,Antigua and Barbuda
+Winford,Frye,m,1980,Equatorial Guinea
+Cyril,Tucker,m,1972,Armenia
+Wesley,Bowman,m,1970,Tuvalu
+Terence,Mccarthy,m,1967,Brunei Darussalam
+Emmitt,Cochran,m,1953,Ireland
+Arianne,Bray,f,1963,Saint Kitts and Nevis
+Inell,Berg,f,1961,Slovenia
+Sona,Mejia,f,1955,Haiti
+Irving,Jennings,m,1965,Puerto Rico
+Obdulia,Hyde,f,1962,Belgium
+Carlo,Diaz,m,1950,Uzbekistan
+Pei,Clay,f,1950,Seychelles
+Carson,Barlow,m,1971,Sudan
+Maia,Talley,f,1950,Turkmenistan
+Ciera,Mcmahon,f,1954,Pitcairn Islands
+Jenell,Smith,f,1960,Indonesia
+Lacy,Good,m,1953,Cape Verde
+Cristie,Burgess,f,1959,Vietnam
+Karleen,Sawyer,f,1959,Rwanda
+Fidel,Watson,m,1987,Solomon Islands
+Ha,Moses,f,1995,Libyan Arab Jamahiriya
+Harland,Colon,m,1954,Jamaica
+Williams,Gilliam,m,1980,Rwanda
+Yoko,Morse,f,1957,Australia
+Glynda,Erickson,f,1953,Netherlands Antilles
+Rana,Harvey,f,1952,Saint Martin
+Lazaro,Lindsey,m,1955,Korea
+Chad,Combs,m,1973,Iran
+Timmy,Hamilton,m,1952,Jersey
+Louanne,Kidd,f,1956,Taiwan
+Lionel,Maddox,m,1974,South Africa
+Abe,Bell,m,1951,Slovakia (Slovak Republic)
+Alfonzo,Calderon,m,1990,Puerto Rico
+Georgeanna,Cannon,f,1952,Maldives
+Jacinto,Bryan,m,1961,Nauru
+Jarrod,Barber,m,1957,Ireland
+Han,Weber,f,1978,Honduras
+Barney,Landry,m,1998,Iran
+Genevive,Webb,f,1950,Hong Kong
+Jeanmarie,Bolton,f,1964,Marshall Islands
+Deangelo,Carroll,m,1973,Korea
+Carl,Potter,m,1957,United Kingdom
+Lamonica,Hahn,f,1987,Cuba
+Emmitt,Andrews,m,1962,Austria
+Xuan,Sweeney,f,1984,Guatemala
+Elin,Head,f,1996,Guernsey
+Oscar,Dickson,m,1958,Taiwan
+Madie,Holman,f,1954,Pakistan
+Alfonzo,Herman,m,1957,Lebanon
+Sylvester,Copeland,m,1970,Albania
+Janiece,Woodward,f,1956,Romania
+Marchelle,Myers,f,1958,Nicaragua
+Leopoldo,Clark,m,1969,Saint Pierre and Miquelon
+Donald,Carr,m,1966,Norfolk Island
+Willard,Phelps,m,1952,San Marino
+Gordon,Rosales,m,1977,Togo
+Anthony,Glenn,f,1957,Anguilla
+Cyril,Craft,m,1971,Moldova
+Ranee,Mcmillan,f,1986,Liechtenstein
+Shawnee,Tanner,f,1957,Cayman Islands
+Kortney,Savage,f,1962,Ethiopia
+Lucien,Carver,m,1971,Poland
+Junita,Smith,f,1963,Taiwan
+Jc,Garrett,m,1956,Paraguay
+Thurman,Ellis,m,1950,Algeria
+Tai,Giles,f,1964,Saint Kitts and Nevis
+Jinny,Tanner,f,1958,United States Minor Outlying Islands
+Pasquale,Castillo,m,1960,Taiwan
+Britt,Owen,m,1956,Djibouti
+Georgann,Roy,f,1974,Romania
+Particia,Griffith,f,1991,Saint Kitts and Nevis
+Harris,Henderson,m,1986,Christmas Island
+Robin,Hunter,m,1981,Venezuela
+Antonina,Greene,f,1953,Djibouti
+Arnold,Shepherd,m,1970,Zimbabwe
+Brock,Heath,m,1959,Guernsey
+Manual,Carson,m,1956,Brunei Darussalam
+Corazon,Wells,f,1958,Lebanon
+Luetta,Mclaughlin,f,1993,Maldives
+Simona,Delaney,f,1979,Mexico
+Carmina,Gill,f,1951,Mauritius
+Cornelius,Mullen,m,1973,Niger
+Pok,Austin,f,1989,Cote d'Ivoire
+Glennie,Duran,f,1954,Saint Kitts and Nevis
+Mana,Preston,f,1979,United Arab Emirates
+Tommy,Stafford,m,1973,Svalbard & Jan Mayen Islands
+Loan,Navarro,f,1952,Isle of Man
+Dania,Mccray,f,1953,Mexico
+Shawn,Thomas,m,1989,Lithuania
+Kyle,Church,m,1964,Canada
+Nestor,Flynn,m,1985,Netherlands Antilles
+Elbert,Boyle,m,1994,Martinique
+Thomas,Bush,m,1969,Eritrea
+Trenton,Henderson,m,1964,Isle of Man
+Stormy,Knight,f,1974,Central African Republic
+Eddy,Finch,m,1982,Indonesia
+Lashay,Rowland,f,1950,Antarctica (the territory South of 60 deg S)
+Shon,Clayton,m,1951,Kenya
+Sharolyn,Waller,f,1955,Dominica
+Alise,Norton,f,1958,Cyprus
+Danny,Howard,m,1965,Iceland
+Hershel,Moreno,m,1952,Switzerland
+Floria,Stone,f,1967,Saint Helena
+Joey,Stein,m,1952,Haiti
+Roselia,Murphy,f,2000,Sierra Leone
+Jona,Abbott,f,1959,Uruguay
+Gustavo,Woodward,m,1954,Czech Republic
+Ozell,Ramirez,f,1970,Myanmar
+Krystina,Keller,f,1950,Nauru
+Bryon,Shelton,m,1968,British Indian Ocean Territory (Chagos Archipelago)
+Leonia,Stevens,f,1967,Switzerland
+Kandace,Ruiz,f,1952,Djibouti
+Elsy,Bass,f,1950,Sierra Leone
+Golden,Carr,f,1951,Holy See (Vatican City State)
+Wiley,Copeland,m,1997,Benin
+Irina,Pitts,f,1959,Qatar
+Sheilah,Mays,f,1953,Afghanistan
+Brittanie,Head,f,1951,Taiwan
+Lilli,Peters,f,1951,Madagascar
+Joel,Cruz,f,1951,Saint Kitts and Nevis
+Else,Vazquez,f,1954,Italy
+Margy,Maxwell,f,1957,Lebanon
+Lester,Sosa,m,1956,Saint Martin
+Dominica,Duke,f,1966,Guernsey
+Raisa,Olsen,f,1967,Cote d'Ivoire
+Zetta,Marquez,f,1959,Saint Barthelemy
+Eddy,Powell,m,1959,Djibouti
+Chet,Shaffer,m,1994,Kiribati
+Alejandro,Lang,m,1956,Cuba
+Katelynn,Pierce,f,1981,Bulgaria
+Jay,Ayers,m,1957,Lithuania
+Hayden,Singleton,m,1965,Montserrat
+Pandora,Barber,f,1959,Greece
+Alexis,Quinn,m,1981,Pitcairn Islands
+Allan,Harrington,m,1954,Guatemala
+Drucilla,Ratliff,f,1977,Saint Helena
+Merna,Delaney,f,1957,Kuwait
+Laree,Harrell,f,1974,Bangladesh
+Mitchell,Brown,m,1952,Cook Islands
+Guadalupe,Holt,m,1959,Iraq
+Sterling,Mullins,m,1953,Faroe Islands
+Charlott,Mercer,f,1960,Cameroon
+Doug,Mack,m,1975,Macedonia
+Anisha,Cruz,f,1958,Bangladesh
+Stephane,Maddox,f,1975,Zimbabwe
+Freeman,Bond,m,1958,Belize
+Shane,Bright,f,1957,Saint Martin
+Cassondra,Marks,f,1962,Guernsey
+Tommie,Le,m,1969,Liberia
+Laurena,Heath,f,1973,Venezuela
+Mitchel,Sanders,m,1958,Philippines
+Ivan,Curtis,m,1967,Brazil
+Mathilda,Mejia,f,1991,Ukraine
+Joshua,Wiley,m,1968,Montenegro
+Wilmer,Estrada,m,1958,Sao Tome and Principe
+Ellena,Noble,f,1973,Lebanon
+Roman,Adams,m,1953,Albania
+Sang,Lynn,m,1952,Cayman Islands
+Thalia,Cross,f,2001,Netherlands
+Shani,Duran,f,1960,Tajikistan
+Donella,Kelly,f,1956,Saint Martin
+Arnold,Crosby,m,1998,Holy See (Vatican City State)
+Clair,Mays,m,1954,Slovenia
+Kirby,Harrison,f,1955,Russian Federation
+Kayce,Zamora,f,1964,Spain
+Antwan,Villarreal,m,1977,Holy See (Vatican City State)
+Harris,Keller,m,1998,Denmark
+Lezlie,Carney,f,1960,Russian Federation
+Merrilee,Thornton,f,1963,China
+Cliff,Graves,m,1960,Trinidad and Tobago
+Virgilio,Mcclure,m,1971,British Virgin Islands
+Thaddeus,Anderson,m,1963,Nauru
+Shirley,Casey,m,1956,Kuwait
+Janessa,Poole,f,1957,Egypt
+Rickie,Michael,m,1956,Lithuania
+Sheridan,Munoz,f,1954,Bolivia
+Del,Chan,m,1986,Solomon Islands
+Calista,Harper,f,1962,Niger
+Hsiu,Flynn,f,1953,Uganda
+Darren,Franks,m,1982,Spain
+Chante,Hartman,f,1956,Turkey
+Soraya,Marsh,f,1950,Nauru
+Shawnda,Aguilar,f,1966,Saint Vincent and the Grenadines
+Larisa,Henderson,f,1973,Korea
+Clark,Lindsay,m,1968,Austria
+Frank,Tran,m,1967,Uganda
+Barrett,Wilcox,m,1953,Albania
+Jalisa,Goff,f,1971,Ecuador
+Angel,Huff,m,1962,Serbia
+Raymonde,Donaldson,f,1970,Montenegro
+Kathrin,Ashley,f,1951,Iraq
+Luetta,Head,f,1972,Rwanda
+Sixta,Hodges,f,1955,Swaziland
+Deshawn,Dennis,m,1967,Bangladesh
+Lawanna,Mccullough,f,1959,Nigeria
+Lawana,Goodwin,f,1989,Bouvet Island (Bouvetoya)
+Grady,Mccarty,m,1966,Madagascar
+Kenisha,Flowers,f,1954,Bahrain
+Catherin,Hurley,f,1966,Australia
+Alejandrina,Rollins,f,1967,Kuwait
+Jacqulyn,Rocha,f,1955,Saint Vincent and the Grenadines
+Fritz,Erickson,m,1977,Northern Mariana Islands
+Lucius,Lynn,m,1970,Liechtenstein
+Wes,Workman,m,1957,Falkland Islands (Malvinas)
+Maximo,Sharp,m,1991,New Caledonia
+Salvatore,Mann,m,1981,Timor-Leste
+Geoffrey,Jacobson,m,1951,Reunion
+Glynis,James,f,1984,Honduras
+Earnest,Ayers,m,1959,Cote d'Ivoire
+Stormy,Donovan,f,2001,Indonesia
+Kenyetta,Hardy,f,1956,Malawi
+Neely,Powell,f,1965,British Indian Ocean Territory (Chagos Archipelago)
+Ray,Newton,m,1966,Cameroon
+Otha,Roberson,m,1961,Spain
+Ferdinand,Hyde,m,1969,Vietnam
+Chester,Briggs,m,1952,Macedonia
+Edmundo,Howe,m,1969,Estonia
+Danilo,Reese,m,1971,Latvia
+Chet,Chambers,m,1951,British Indian Ocean Territory (Chagos Archipelago)
+Carmon,Sanders,f,1954,South Georgia and the South Sandwich Islands
+Myrtie,Huffman,f,1966,Gibraltar
+Demetrius,Whitney,m,1961,Uzbekistan
+Buster,Johns,m,1987,Austria
+Maisie,Frank,f,1966,Panama
+Marco,Burgess,m,1981,Sierra Leone
+Delila,Moreno,f,1967,Greenland
+Antonia,Hurst,m,1971,Ireland
+Elene,Dillon,f,1959,Falkland Islands (Malvinas)
+Gennie,Byrd,f,1969,Korea
+Luigi,Puckett,m,1953,Jamaica
+Charmain,Gay,f,1964,British Indian Ocean Territory (Chagos Archipelago)
+Cuc,Nieves,f,1956,Venezuela
+Connie,England,m,1958,Sri Lanka
+Cherilyn,Russell,f,1979,British Indian Ocean Territory (Chagos Archipelago)
+Katlyn,Mcfarland,f,1987,Trinidad and Tobago
+Jospeh,Ochoa,m,1953,Saudi Arabia
+Malvina,Bright,f,1965,Belize
+Chia,Salinas,f,1979,Holy See (Vatican City State)
+Hilaria,Gaines,f,1953,Norfolk Island
+Kemberly,Lambert,f,1958,Paraguay
+Lean,Wynn,f,1954,Hungary
+Eusebia,Clark,f,1992,Sao Tome and Principe
+Leigha,Sargent,f,1954,Trinidad and Tobago
+Natisha,Blevins,f,1988,France
+Salvador,O'donnell,m,1957,Algeria
+Keeley,Mendoza,f,1968,Guinea
+Jc,Reeves,m,1967,Central African Republic
+Keith,Gomez,m,1969,Isle of Man
+Stewart,Hopkins,m,1959,Tokelau
+Palmira,Pugh,f,1957,Azerbaijan
+Ernie,Brock,m,1956,Netherlands Antilles
+Chance,Adams,m,1979,Cuba
+Noble,Arnold,m,1950,Svalbard & Jan Mayen Islands
+Miguel,Norris,m,1958,Cocos (Keeling) Islands
+Loria,Baird,f,1966,Niue
+Steven,White,f,1969,Netherlands Antilles
+Ileen,Hinton,f,1955,San Marino
+Cammy,Santos,f,1988,Pakistan
+Kathe,Sawyer,f,1960,Croatia
+Sherise,Morton,f,1952,Myanmar
+Mitch,Nguyen,m,1965,Marshall Islands
+Bernie,Lucas,m,1960,Israel
+Kyle,Dejesus,m,1972,United States Virgin Islands
+Austin,Delacruz,m,1963,Algeria
+Anthony,Hamilton,f,1956,San Marino
+Dorsey,Simmons,m,1993,Philippines
+Minda,Spence,f,1953,South Georgia and the South Sandwich Islands
+Willard,Hayes,m,1979,Serbia
+Loris,Travis,f,1969,Kuwait
+Arianna,Ruiz,f,1965,Cambodia
+Jae,Meyer,f,1952,New Zealand
+Lynna,Sawyer,f,1959,Congo
+Jules,Osborne,m,1953,Chad
+Mathilda,Arnold,f,1966,Nepal
+Jae,Bradford,m,1969,Singapore
+Lashandra,Cantrell,f,1956,Botswana
+Shawnta,Mcgowan,f,1969,Mayotte
+Janene,Quinn,f,1956,Christmas Island
+Yang,Tran,f,1953,Iceland
+Claudio,Marshall,m,1959,Saint Lucia
+Hayden,Frederick,m,1972,Guam
+Reed,Estes,m,1958,Guinea-Bissau
+Gidget,Stephenson,f,1972,Vietnam
+Young,Acevedo,m,1952,United Kingdom
+Norman,Sherman,f,1985,Niue
+Emilee,Frazier,f,1972,Guernsey
+Conchita,Dickson,f,1951,Palau
+Malvina,Tucker,f,1982,Haiti
+Elanor,Reese,f,1962,Gambia
+Sandee,Hayden,f,1987,Colombia
+Vallie,Ferrell,f,1964,Senegal
+Hugo,Key,m,1954,French Guiana
+Odell,Ford,m,1994,Kuwait
+Alix,Mack,f,1962,Tuvalu
+Emilio,Boyd,m,1964,United Kingdom
+Floria,Francis,f,1996,Romania
+Salvador,Ayers,m,1990,France
+Emerson,Howell,m,1962,British Indian Ocean Territory (Chagos Archipelago)
+Sirena,Ortega,f,1960,Ghana
+Deane,Ayala,f,1954,Belgium
+Samuel,Snider,m,1952,Wallis and Futuna
+Adolfo,Silva,m,1972,Guatemala
+Seth,Todd,m,1995,Myanmar
+Miles,Price,m,1965,Honduras
+Loren,Holt,m,1996,Belize
+Rocco,Ingram,m,1954,Ecuador
+Damion,Kirby,m,1987,Netherlands Antilles
+Livia,Mcgowan,f,1962,Vanuatu
+Galen,Pratt,m,1951,Saint Martin
+Madie,Mills,f,1958,Samoa
+Jacob,Roberson,m,1959,Saint Martin
+Andres,Howe,m,1996,Malaysia
+Michaele,Lott,f,1964,Belarus
+Leif,Brady,m,1957,Jordan
+Eldridge,Ellis,m,1950,Nigeria
+Patricia,Foreman,m,1950,Norfolk Island
+Wayne,Vaughn,m,1991,South Africa
+Randee,Robles,f,1965,Cote d'Ivoire
+Lahoma,Huffman,f,1950,Saint Martin
+Burton,Mccarthy,m,1972,Poland
+Ezekiel,Kirk,m,1956,Bahrain
+Frank,Roy,f,1981,Seychelles
+Mitch,Marquez,m,1950,Niue
+Kimiko,Rosa,f,1958,Antigua and Barbuda
+Laurice,Byers,f,1980,Samoa
+Weldon,Gregory,m,1959,Heard Island and McDonald Islands
+Rory,Goodman,m,1973,Mozambique
+Vanda,Randall,f,1981,Guinea
+Lavette,Howard,f,1976,Austria
+Antione,Williams,m,1958,Lesotho
+Brady,O'neill,m,1952,Chile
+Shizue,Carr,f,1966,Bangladesh
+Robby,Norton,m,1957,Congo
+Antonia,Lambert,m,1953,Canada
+Heriberto,Washington,m,1956,Ecuador
+Pat,Willis,m,1964,Canada
+Caprice,Nixon,f,1953,Taiwan
+Florance,Hines,f,1951,Djibouti
+Lael,Bender,f,1956,Seychelles
+Dodie,Arnold,f,1959,Guernsey
+Rodger,Hendrix,m,1958,Ukraine
+Modesto,Rivera,m,1967,Tajikistan
+Antonina,Phelps,f,1966,French Guiana
+Kurtis,Justice,m,1952,Kiribati
+Houston,Tran,m,1954,Samoa
+Delpha,Joyner,f,1951,United States of America
+Maximo,Rollins,m,1956,Finland
+Mario,Lott,m,1978,British Indian Ocean Territory (Chagos Archipelago)
+Richard,Hickman,m,1957,Colombia
+Von,Guzman,m,2002,Brunei Darussalam
+Scotty,Wright,m,1955,Falkland Islands (Malvinas)
+Vennie,Howe,f,1959,Norway
+Emil,Randall,m,1986,Greenland
+Ngan,Hooper,f,1974,French Guiana
+Shanelle,Buckley,f,1980,Bahamas
+Nakesha,Hampton,f,1983,Bangladesh
+Jeanmarie,Dodson,f,1950,Cameroon
+Hee,Sweeney,f,1963,Cote d'Ivoire
+Joseph,Decker,m,1994,Hong Kong
+Jamison,Kelley,m,1980,El Salvador
+Perry,O'donnell,m,1950,Chad
+Julio,Noble,f,1962,Kuwait
+Gale,Whitehead,m,1966,American Samoa
+Hugh,Mann,m,1974,Barbados
+Leopoldo,Burks,m,1951,Dominican Republic
+Joel,Frederick,m,1950,Montenegro
+Len,Hogan,m,1961,Saint Kitts and Nevis
+Jerald,Prince,m,1955,Tunisia
+Lavonna,Dejesus,f,1973,Norway
+Marianela,Lucas,f,1958,Niue
+Yuki,Logan,f,1951,Kenya
+Garfield,Frank,m,1953,Uruguay
+Johnathon,Mckee,m,1965,Palau
+Wyatt,Chang,m,1955,Libyan Arab Jamahiriya
+Ramon,Lewis,m,1965,Nepal
+Dario,Willis,m,1970,Argentina
+Gabriel,Rich,m,1988,United States of America
+Brendon,Vaughan,m,1965,United States Virgin Islands
+Jannet,Guerrero,f,1970,Zambia
+Maren,Ramos,f,1950,Faroe Islands
+Laverna,Schmidt,f,1952,Cambodia
+Stephen,Harrison,m,1952,Slovakia (Slovak Republic)
+Ellsworth,Bridges,m,1991,Belarus
+Yun,Marquez,f,1956,Jordan
+Andres,Adams,m,1966,Hungary
+Krysta,Cardenas,f,1956,Bangladesh
+Jestine,Preston,f,1965,Cyprus
+Mariel,Munoz,f,1971,Cyprus
+Clora,Eaton,f,1962,Mongolia
+Jamaal,Herrera,m,1959,Malaysia
+Lianne,Sweeney,f,1955,Faroe Islands
+Danyelle,Christensen,f,1963,Israel
+Maria,Lara,m,1950,United States Virgin Islands
+Ernest,Burke,m,1955,Angola
+Alejandro,Meyers,m,1962,Heard Island and McDonald Islands
+Leo,Hall,f,1968,Mayotte
+Kimberli,Hoover,f,1980,Guinea
+Clementina,Golden,f,1974,Ghana
+Sana,Terrell,f,1957,El Salvador
+Clifford,Barr,m,1951,Egypt
+Keiko,Barton,f,1957,Saint Kitts and Nevis
+Delsie,Alford,f,1998,Switzerland
+Shela,Sykes,f,1950,Cook Islands
+Jame,Neal,m,1980,Niger
+Mana,Schroeder,f,1959,India
+Judson,Cline,m,1960,France
+Edgardo,Blackwell,m,1958,Peru
+Floyd,Allen,m,1950,Morocco
+Cesar,Herring,m,1991,Cote d'Ivoire
+Loree,Mckinney,f,1957,Croatia
+Evan,Weaver,m,1962,Faroe Islands
+Alex,Eaton,m,1991,Estonia
+Fidel,Navarro,m,1973,Russian Federation
+Jimmie,Mathis,m,1974,Tuvalu
+Darell,Burgess,m,1962,Antarctica (the territory South of 60 deg S)
+Brittaney,Mack,f,1955,Gabon
+Lenard,Cannon,m,1956,Tajikistan
+Ruthanne,Coleman,f,1990,Italy
+Marna,Newman,f,1958,Lebanon
+Derek,Brewer,m,1969,Philippines
+Lyle,Justice,m,1963,Cuba
+Wilhemina,O'neal,f,1981,Poland
+Babara,Newman,f,1951,Saint Lucia
+Shonna,Mayer,f,1964,Western Sahara
+Sherrell,Church,f,1968,Puerto Rico
+Yulanda,Cote,f,1965,Greece
+Salome,Sanders,f,1956,Israel
+Salome,Donaldson,f,1950,China
+Darnell,Stanton,f,1967,Egypt
+Jed,Ross,m,1958,Pakistan
+Lakeesha,Gutierrez,f,1952,Eritrea
+Rich,Gregory,m,1957,Heard Island and McDonald Islands
+Sharleen,Mcfadden,f,1982,Norfolk Island
+Tenisha,Huffman,f,1964,Uruguay
+Oretha,Rowe,f,1960,Jamaica
+Mitsue,Ashley,f,1962,Guernsey
+Latarsha,Nelson,f,1954,Congo
+Selene,Larson,f,1960,Aruba
+Hai,Mccarty,m,1966,Brazil
+Frederic,Holcomb,m,1951,Netherlands
+Carter,Bright,m,1976,Iran
+Lilliam,Santos,f,1952,Saint Lucia
+Codi,Merritt,f,1961,Tanzania
+Raylene,Mercado,f,1956,Belize
+Samuel,Reed,m,1962,United States Virgin Islands
+Jerrod,Cunningham,m,1975,Bosnia and Herzegovina
+Cyrus,Winters,m,1967,Spain
+Leonel,Orr,m,1993,Turkey
+Hugh,Manning,m,1960,Macedonia
+Leighann,Berry,f,1954,Bolivia
+Orlando,Raymond,m,1952,Argentina
+Malka,Gomez,f,1963,Northern Mariana Islands
+Ta,Molina,f,1955,Nicaragua
+Adrian,Berry,m,1956,Czech Republic
+Mikki,Gallagher,f,1953,Micronesia
+Adaline,Holcomb,f,1967,Panama
+Rolland,Pace,m,1951,Puerto Rico
+Julio,Wiggins,f,1961,Tanzania
+Kennith,Lang,m,1952,Montenegro
+Judson,Berg,m,1960,Kyrgyz Republic
+Marisha,Weaver,f,1970,Haiti
+Vivan,Whitley,f,1972,Palau
+Leigh,Blackburn,m,1962,Ukraine
+Fatimah,Nixon,f,1956,Martinique
+Santos,Valentine,m,1968,Niger
+Stacy,Madden,m,1994,Slovenia
+Voncile,Wilkins,f,1951,Egypt
+Phil,Peterson,m,1991,Israel
+Dylan,Nielsen,m,1982,Chad
+Denae,Nelson,f,1958,Afghanistan
+Russ,Barnett,m,1971,South Georgia and the South Sandwich Islands
+Cyrstal,Little,f,1960,Morocco
+Eddie,Dillon,m,1956,Cuba
+Ismael,Spears,m,1971,Egypt
+Dorethea,Skinner,f,1966,Comoros
+Hannelore,Chaney,f,1963,Lebanon
+Ronny,French,m,1971,Dominica
+Maximina,Briggs,f,1966,Slovakia (Slovak Republic)
+Jim,Larson,m,1963,Bhutan
+Kemberly,Miller,f,1954,Bahrain
+Ali,Mosley,f,1974,Azerbaijan
+Kimiko,Espinoza,f,1985,Palestinian Territory
+Malena,Wells,f,1957,Micronesia
+Andre,King,f,1962,Slovenia
+Rupert,Dickerson,m,1979,El Salvador
+Alla,Berry,f,1972,Ireland
+Devon,Fowler,m,1987,Djibouti
+Newton,Vasquez,m,1991,Tunisia
+Nathaniel,Ratliff,m,1956,Uganda
+Chet,Henry,m,1956,Armenia
+Tabetha,Barber,f,1962,Falkland Islands (Malvinas)
+Loren,Morse,m,1953,Colombia
+Billye,Battle,f,1987,Burkina Faso
+Mammie,Roy,f,1985,Antigua and Barbuda
+Emory,Ford,m,1961,Liberia
+Garry,Hicks,m,1963,Tunisia
+Tanna,Rollins,f,1974,Luxembourg
+Shanita,Valdez,f,1982,Brunei Darussalam
+Myrtie,Sharp,f,1990,Hong Kong
+Maple,Snider,f,1971,Jordan
+Larae,Baker,f,1951,Cayman Islands
+Darby,Branch,f,1973,Botswana
+Silas,Rivas,m,1951,Micronesia
+Darby,Dyer,f,1958,Finland
+Georgine,Gibson,f,1955,Saudi Arabia
+Clinton,Pratt,m,1958,Angola
+George,Patton,m,1952,Fiji
+Ligia,Valencia,f,1963,Djibouti
+Delisa,Mckay,f,1961,Guinea
+Scottie,Hurst,m,1952,Bhutan
+Tatyana,Barnett,f,1957,Italy
+Marlin,Bowman,m,1969,Mauritania
+Rosendo,Fisher,m,1960,Seychelles
+Alease,Elliott,f,1958,Niger
+Shiloh,Hines,f,1954,United States Minor Outlying Islands
+Eleonora,Guzman,f,1962,New Caledonia
+Erich,Goff,m,1997,Macedonia
+Eura,Bauer,f,1973,Haiti
+Jesenia,Barry,f,1985,Malawi
+Margart,Good,f,1953,Saint Martin
+Regena,Marks,f,1973,Zimbabwe
+Darwin,Randolph,m,1968,Moldova
+Terry,Miller,m,1960,Chile
+Chauncey,Nelson,m,1956,Switzerland
+Freddie,Malone,m,1970,Belgium
+Chad,Duncan,m,1959,Samoa
+Melany,Pacheco,f,1962,Equatorial Guinea
+Sam,Bowers,m,1954,Brazil
+Tamie,Guthrie,f,1997,Zambia
+Wilson,Gates,m,1979,Mauritania
+Cesar,Sellers,m,1966,Estonia
+Stewart,Alvarado,m,1968,Sweden
+Craig,Herrera,m,1957,Nepal
+Robert,Kirk,m,1960,Reunion
+Adrian,Preston,m,1970,Guam
+Tonie,Burke,f,1977,Panama
+Twana,Burton,f,1952,Turkmenistan
+Quintin,Mayer,m,1963,Uruguay
+Genevive,Juarez,f,1952,New Caledonia
+Ilana,Fleming,f,1958,British Indian Ocean Territory (Chagos Archipelago)
+Lawrence,Carter,m,1966,Angola
+Narcisa,Aguirre,f,1952,Malawi
+Kenneth,Booth,m,1959,Trinidad and Tobago
+Marshall,Stein,m,1956,Colombia
+Ray,Barrera,m,1955,Sierra Leone
+Claretha,Mckenzie,f,1964,Cayman Islands
+Esteban,Love,m,1954,Chile
+Bo,Stout,m,2001,Guam
+Song,Vincent,f,1975,Saudi Arabia
+Veola,Hays,f,1979,Comoros
+Georgene,Finch,f,1975,United States Minor Outlying Islands
+Leroy,Franks,m,1964,Mali
+Titus,Morton,m,1962,South Georgia and the South Sandwich Islands
+Josphine,Young,f,1970,Nepal
+Juan,Goff,m,1960,Greenland
+Ludie,Craft,f,1958,Oman
+Taunya,Reese,f,1961,Gambia
+Jona,Berg,f,1952,Mexico
+Brant,Buck,m,1964,Tanzania
+Corey,Webb,m,1990,Brazil
+Clifton,Chase,m,1994,Sweden
+Casey,Barton,m,1953,Kiribati
+Onie,Porter,f,1956,Israel
+Felisa,Davis,f,1966,Romania
+Bethanie,Craig,f,1969,Sao Tome and Principe
+Jackie,Merritt,m,1976,Austria
+Bryan,Stokes,m,1952,Luxembourg
+Jarrett,Roman,m,1955,Saint Kitts and Nevis
+Tesha,Hopkins,f,1966,Uzbekistan
+Bernie,Sawyer,m,1965,Eritrea
+Elly,Jackson,f,1957,Pitcairn Islands
+Cody,Woodward,m,1958,Central African Republic
+Lachelle,Norman,f,1978,Kyrgyz Republic
+Audrea,Strickland,f,1971,Hong Kong
+Patrick,Fowler,f,1983,Antigua and Barbuda
+Krishna,Larsen,f,1958,Anguilla
+Monserrate,Livingston,f,1971,Zambia
+Winfred,Emerson,m,1986,Niue
+Clemencia,Jordan,f,1965,Central African Republic
+Jason,Peterson,f,1985,Saint Vincent and the Grenadines
+Norberto,Ramos,m,2004,Andorra
+Lonny,Holder,m,1967,Macedonia
+Vi,Daugherty,f,1954,Kiribati
+Elliot,Hogan,m,1967,Portugal
+Augustus,Schneider,m,1969,Portugal
+Mike,Porter,m,1953,Congo
+Antonietta,Cantu,f,1960,Serbia
+Frederick,Everett,m,1952,Slovenia
+Gregory,Berg,f,1986,Norfolk Island
+Aurelio,Stone,m,1958,Eritrea
+Francene,Mathews,f,1954,Sri Lanka
+Consuela,Bowers,f,1970,Saint Helena
+Charley,Whitfield,m,1980,Chad
+Florencio,Tyson,m,1980,Christmas Island
+Yessenia,Dyer,f,1957,New Caledonia
+Lazaro,Giles,m,1957,Uruguay
+Shaun,Gamble,f,1953,Nicaragua
+Grant,Knight,m,1971,Mexico
+Classie,Lindsey,f,1961,Papua New Guinea
+Keturah,Welch,f,1962,Dominican Republic
+Weston,Baldwin,m,1962,Cameroon
+Eldon,Douglas,m,1977,Luxembourg
+Indira,Dotson,f,1957,Panama
+Kurtis,Baxter,m,1959,Burkina Faso
+Argentina,Lucas,f,1958,Israel
+Dulcie,Young,f,1954,Spain
+Ernesto,Gonzalez,m,1957,Congo
+Donnell,Tucker,m,1968,Djibouti
+Marlin,Christensen,m,1971,Cayman Islands
+Romelia,Schneider,f,1952,Thailand
+Francisco,Velazquez,m,1959,Bosnia and Herzegovina
+Lavenia,Brock,f,1970,Mayotte
+Raleigh,Thompson,m,1952,Cocos (Keeling) Islands
+Kory,Jenkins,m,1963,Belgium
+Sixta,Manning,f,1967,Bahrain
+Alise,Sloan,f,1965,Tokelau
+Galen,Beach,m,1950,Reunion
+Troy,Irwin,m,1972,Israel
+Earlie,Rush,f,1960,Syrian Arab Republic
+Lenita,Strickland,f,1973,Latvia
+Petronila,Church,f,1965,Cambodia
+Quintin,Martinez,m,1958,Timor-Leste
+Julius,Mason,m,1975,Gibraltar
+Catherin,Cobb,f,1960,British Indian Ocean Territory (Chagos Archipelago)
+Harland,Turner,m,1951,New Caledonia
+Chance,Phillips,m,1967,South Georgia and the South Sandwich Islands
+Erlene,Ashley,f,1962,Egypt
+Crista,Koch,f,1959,Nepal
+Herbert,Quinn,m,1957,Mali
+Rick,Raymond,m,1964,Lesotho
+Fernande,Griffith,f,1978,Italy
+Patricia,Spence,m,1964,South Georgia and the South Sandwich Islands
+Jared,Livingston,m,1955,Lesotho
+Un,Richard,f,1977,Slovenia
+Danae,Nieves,f,1962,Martinique
+Arcelia,Salas,f,1970,Kyrgyz Republic
+Donnie,Bradley,m,1950,Bosnia and Herzegovina
+Rigoberto,Chase,m,1962,Falkland Islands (Malvinas)
+Sebastian,Wilkins,m,1966,Libyan Arab Jamahiriya
+Joey,Yates,m,1958,Andorra
+Elliot,Hendrix,m,1980,Jersey
+Joseph,Rocha,m,1979,Burkina Faso
+Isaac,Gibbs,m,1959,Sri Lanka
+Carline,Hogan,f,1985,Ecuador
+Alleen,Keith,f,1967,United Kingdom
+Brandon,Campos,m,1954,Marshall Islands
+Min,Garza,f,1982,Holy See (Vatican City State)
+Genie,Ferrell,f,1951,Mayotte
+Josiah,Wells,m,1962,Poland
+Dorathy,Santos,f,1963,Tuvalu
+Maia,Workman,f,1968,China
+Norman,Baird,m,1968,Palau
+Carmina,Atkinson,f,1952,Somalia
+Al,Vang,m,1969,Monaco
+Neta,Strong,f,1971,Panama
+Clint,Randolph,m,1953,Nepal
+Deon,Peters,f,1958,United Kingdom
+Karl,Morales,f,1974,Niue
+Bart,Scott,m,1951,Lao People's Democratic Republic
+Melania,Woodard,f,1950,Congo
+Nisha,Merrill,f,1976,Mauritius
+Toshiko,Johns,f,1986,Dominica
+Shella,Bradford,f,1956,Guinea
+Xochitl,Mccullough,f,1955,Poland
+Yahaira,Fuentes,f,1992,Liberia
+Angelena,Lopez,f,1954,Rwanda
+Rebecka,Blair,f,1951,Niue
+Chantay,Wolf,f,1991,Iran
+Willian,Arnold,m,1972,Korea
+Corie,Black,f,1976,Iceland
+Terica,Mcclure,f,1955,Luxembourg
+Treasa,Livingston,f,1984,Kuwait
+Jon,Austin,m,1956,Saint Martin
+Kindra,Blair,f,1956,Guam
+Kizzy,Crosby,f,1963,Anguilla
+Mitchell,Holland,m,1956,Cape Verde
+Orval,Mcconnell,m,1963,Sudan
+Jess,Richmond,m,1956,Kuwait
+Kam,Guzman,f,1974,Angola
+Jeanice,Harrell,f,1954,Saint Pierre and Miquelon
+Lyle,Lynn,m,1988,Tokelau
+Mana,Parrish,f,1953,Greenland
+Deja,Maldonado,f,1952,Iran
+Leanora,Sosa,f,1952,Ukraine
+Jackson,Gibbs,m,1964,Guatemala
+Damien,Baxter,m,1954,Liechtenstein
+Wayne,Frazier,m,1953,Norway
+Gus,Farmer,m,1957,Saint Barthelemy
+Khadijah,Wise,f,1965,Switzerland
+Deandre,Cortez,m,1950,Faroe Islands
+Gene,Stout,m,1952,Latvia
+Eugene,Anthony,f,1956,United States Virgin Islands
+Lawerence,Santiago,m,1956,Myanmar
+Josef,Leonard,m,1979,Chile
+Genaro,Horn,m,1953,Burundi
+Dario,Justice,m,1977,Saint Martin
+Greg,Combs,m,1951,Gabon
+Waylon,Durham,m,1961,Lithuania
+Karleen,Christian,f,1952,Nauru
+Gema,Stuart,f,1962,Mauritius
+Thanh,Washington,m,1952,New Caledonia
+Humberto,Moreno,m,1954,Fiji
+Vito,Medina,m,1957,Cote d'Ivoire
+Andera,Trujillo,f,1971,Bahamas
+Lakia,Golden,f,1964,Malta
+Patricia,Camacho,m,1972,Azerbaijan
+Waldo,Gilliam,m,1957,Egypt
+Marlin,Bell,f,1952,Syrian Arab Republic
+Deandre,Farmer,m,1959,Cook Islands
+Lael,Lawson,f,1963,Guernsey
+Karmen,Vega,f,1982,Malaysia
+Delcie,Ortiz,f,1954,Guyana
+Bradford,Stanton,m,1979,Argentina
+Isiah,Dyer,m,1954,Japan
+Stefany,Trujillo,f,1966,China
+Alva,Silva,m,1961,Bahrain
+Benito,Chang,m,1955,Turkmenistan
+Eduardo,Caldwell,m,1952,Netherlands
+Rod,Foreman,m,1969,Tajikistan
+Dallas,Curtis,f,1970,South Georgia and the South Sandwich Islands
+Kenda,Henry,f,1979,Luxembourg
+Fumiko,Day,f,1966,French Southern Territories
+Karyl,Gillespie,f,1997,Bahamas
+Danika,Albert,f,1994,Iraq
+Felix,Terrell,m,1975,Netherlands Antilles
+Leena,Fox,f,1956,Oman
+Kimbery,Fields,f,1960,Guadeloupe
+Ronny,Ruiz,m,1957,Wallis and Futuna
+Loura,Torres,f,1957,Saint Kitts and Nevis
+Trudi,Palmer,f,1973,Austria
+Shenita,Lancaster,f,1960,United Kingdom
+Jeffry,Hatfield,m,1978,Liberia
+Lakita,Lewis,f,1963,Austria
+Jed,Marquez,m,1956,Burkina Faso
+Walter,Henson,m,1987,Iraq
+Genie,Marsh,f,1950,Brunei Darussalam
+Cody,Williamson,m,1967,Trinidad and Tobago
+Todd,Delaney,m,1973,Central African Republic
+Jackie,Garcia,m,1974,Maldives
+Hilario,Carver,m,1972,Saint Kitts and Nevis
+Bibi,Andrews,f,1959,Sierra Leone
+Isaias,Mayo,m,1966,Haiti
+Cristobal,Leblanc,m,1980,Finland
+Maple,Lester,f,1965,Libyan Arab Jamahiriya
+Zada,Emerson,f,1954,Maldives
+Brittni,Witt,f,1950,Gibraltar
+Regine,Alexander,f,1964,Angola
+Nicky,Hanson,m,1974,Tokelau
+Raymond,Kerr,m,1953,Palestinian Territory
+Doria,King,f,1959,Gambia
+Estell,Adams,f,1971,Thailand
+Edmund,England,m,1967,Albania
+Eddy,Mclean,m,1953,United States Minor Outlying Islands
+Nery,Mcclain,f,1967,Myanmar
+Sharell,Wheeler,f,1959,Montenegro
+Maxwell,Guzman,m,1994,Montserrat
+Theodore,Nicholson,m,1978,Angola
+Horacio,Daniels,m,1976,Angola
+Neida,Williamson,f,1963,Mayotte
+Elmer,Mckenzie,f,1964,Australia
+Mickey,Walters,m,1959,Indonesia
+Victor,Ramsey,m,1965,Morocco
+Lakenya,Solis,f,1954,Monaco
+Preston,Williamson,m,1951,Chile
+Elroy,Tran,m,1979,Saint Martin
+Charita,Ewing,f,1954,Central African Republic
+Gerard,Rose,m,1974,Antarctica (the territory South of 60 deg S)
+Osvaldo,Stuart,m,1967,Turkey
+Tien,Matthews,f,1956,Fiji
+Daine,York,f,1986,Tonga
+Le,Craig,f,1954,Cyprus
+Loreen,Patrick,f,1963,Hungary
+Melda,Stout,f,1963,Svalbard & Jan Mayen Islands
+Kary,Velazquez,f,1955,Uruguay
+Bart,Maxwell,m,1966,Afghanistan
+Francisco,Robles,m,1959,Bermuda
+Dion,Horton,f,1958,United Kingdom
+Alexander,Sanders,f,1950,Thailand
+Latrina,Delaney,f,1974,Ecuador
+Lino,Christensen,m,1982,Vietnam
+Albertina,Goff,f,1960,Djibouti
+Queenie,Randall,f,1987,Finland
+Micheal,Giles,f,1953,Ethiopia
+Adalberto,Donaldson,m,1952,Tanzania
+Austin,Thornton,m,1961,Syrian Arab Republic
+Saran,Frank,f,1966,Congo
+Melita,Mcpherson,f,1951,Chile
+Pierre,Newman,m,1997,Montenegro
+Trinh,Newton,f,1956,Cook Islands
+Miquel,Tyson,m,1976,Malta
+Eladia,Schultz,f,1964,Namibia
+Billie,Williamson,m,1953,Georgia
+Timothy,Huffman,m,1974,Guernsey
+Dwayne,Simon,m,1969,Lesotho
+Carlo,Santiago,m,1953,Seychelles
+Thad,Howe,m,1960,Fiji
+Tyesha,Jarvis,f,1952,South Africa
+Willene,Ingram,f,1956,Montserrat
+Angla,Mcgee,f,1980,Saint Helena
+Dewitt,Figueroa,m,1972,Kenya
+Elizbeth,Tate,f,1956,Tonga
+Chauncey,Caldwell,m,1996,Australia
+Zachariah,Stafford,m,1960,French Guiana
+Mark,Morse,m,1982,Comoros
+Lyman,Lyons,m,1972,British Indian Ocean Territory (Chagos Archipelago)
+Theola,Mayo,f,1950,Germany
+Inell,Sheppard,f,1950,Kyrgyz Republic
+Grazyna,Casey,f,1953,Taiwan
+Nicky,Hartman,m,1954,Dominica
+Cathern,Hood,f,1953,Colombia
+Sherika,Rosales,f,1990,Ghana
+Verlie,Fuentes,f,1956,Cape Verde
+Shenika,Perry,f,1987,Cote d'Ivoire
+Azucena,Dotson,f,1998,Romania
+Marco,Rodriquez,m,1957,Brunei Darussalam
+Kasie,Velasquez,f,1955,Belize
+Caleb,Mcmillan,m,1970,Japan
+Eduardo,Duran,m,1957,Niue
+Divina,Wilkerson,f,1981,Tajikistan
+Ashley,Mcbride,m,1975,Antigua and Barbuda
+Leon,Kirby,f,1956,Sudan
+Karisa,Good,f,1951,Jordan
+Andre,Maddox,f,1974,Comoros
+Lon,Ferrell,m,1955,Palau
+Reyes,Hart,m,1953,Hungary
+Clelia,Dawson,f,1977,Congo
+Gayle,Barber,m,1982,Solomon Islands
+Waylon,Velasquez,m,1968,Latvia
+Refugio,Merritt,m,1953,Burundi
+Angila,Floyd,f,1973,Niue
+Timmy,Curry,m,1953,Namibia
+Sharan,Murray,f,1982,United States Minor Outlying Islands
+Chante,Dunlap,f,1954,United States of America
+Orval,Lawrence,m,1970,Algeria
+Karyl,Foreman,f,1960,British Indian Ocean Territory (Chagos Archipelago)
+Reatha,Riggs,f,1977,Switzerland
+Petrina,Chandler,f,1970,British Indian Ocean Territory (Chagos Archipelago)
+Rory,Holmes,m,1968,Kiribati
+Elin,Allison,f,1980,French Polynesia
+Earnest,Kirkland,m,1959,Timor-Leste
+Dion,Burgess,f,1966,Jordan
+Penni,Holman,f,1954,Macedonia
+Lady,Hardin,f,1955,Hungary
+Parthenia,Fowler,f,1994,Seychelles
+Yan,Mcguire,f,1951,Sudan
+Hans,Beach,m,1962,Andorra
+Alica,Cunningham,f,1967,British Virgin Islands
+Cristopher,Wright,m,1951,Estonia
+Tyrell,Cooke,m,1962,Fiji
+Johnathon,Lamb,m,1960,Honduras
+Teddy,Tate,m,1956,Peru
+Emelia,Gillespie,f,1966,Iceland
+Gia,Randolph,f,1972,Ethiopia
+Roland,Lynn,m,1960,Cambodia
+Herma,Bell,f,1965,Lesotho
+Sana,Russo,f,1955,Angola
+Jeneva,Davenport,f,1997,Mali
+Maire,Pace,f,1969,Cameroon
+Katharina,Little,f,1963,Swaziland
+Shona,Rose,f,1955,Jordan
+Frank,Erickson,m,1955,Armenia
+Ayesha,Erickson,f,1954,Croatia
+Herbert,Alston,m,1955,Palau
+Rosia,Conner,f,1957,Armenia
+Titus,Herrera,m,1950,Bhutan
+Roxy,Mccall,f,1968,Myanmar
+Conchita,Malone,f,1956,Nicaragua
+Sparkle,Cabrera,f,1966,Burkina Faso
+Isobel,Woodard,f,1971,Liberia
+Antone,Spencer,m,1963,Saint Lucia
+Carmelo,Strickland,m,1963,Andorra
+Harvey,Levine,m,1961,United States Minor Outlying Islands
+Dulcie,Mcintosh,f,1954,Puerto Rico
+Delila,Barr,f,1990,American Samoa
+Elza,Acevedo,f,1986,Belize
+Laurena,Galloway,f,1965,Reunion
+Macy,Sosa,f,1971,Zambia
+Alia,Cook,f,1967,Cyprus
+Leslie,Flynn,m,1962,Falkland Islands (Malvinas)
+Sherril,Russell,f,1970,El Salvador
+Sheldon,Walls,m,1986,Croatia
+Bok,Brown,f,1963,Sao Tome and Principe
+Jarrod,Franks,m,1967,Bouvet Island (Bouvetoya)
+Forrest,Ryan,m,1951,Jordan
+Jeffery,Richard,m,1956,Niger
+Demarcus,Reyes,m,1976,Jamaica
+Bernard,Quinn,m,1961,Heard Island and McDonald Islands
+Eugene,Horton,f,1967,Samoa
+Livia,Cooper,f,1950,Armenia
+Theodore,Vaughn,m,1960,Poland
+Candie,Mendoza,f,1960,Niue
+Tilda,Park,f,1969,Grenada
+Ebonie,Snider,f,1955,Serbia
+Brande,Allen,f,1956,Chad
+Cristopher,Coffey,m,1954,Ecuador
+Jone,Michael,f,1967,Turkmenistan
+Robert,Goodman,m,1975,Brunei Darussalam
+Fransisca,Wagner,f,1957,Eritrea
+Darrin,Mayo,m,1972,Netherlands Antilles
+Adolfo,Mcfarland,m,1981,Liberia
+Reinaldo,Coleman,m,1955,Madagascar
+Tempie,Rose,f,1980,Northern Mariana Islands
+Alphonso,Coleman,m,1955,Netherlands Antilles
+Bryon,Aguirre,m,1956,Saint Barthelemy
+Margit,Durham,f,1951,Bhutan
+Herta,Chambers,f,1955,Singapore
+Jason,Santiago,m,1961,Israel
+Francie,George,f,1950,Brunei Darussalam
+Shane,Schroeder,m,1957,Panama
+Brigid,Parrish,f,1955,Hong Kong
+Magdalen,Mckenzie,f,1958,Solomon Islands
+Sebastian,Page,m,1951,Falkland Islands (Malvinas)
+Mickey,Salazar,m,1984,Tajikistan
+Neal,English,m,1958,Sweden
+Argentina,Mathews,f,1969,Bahamas
+Earl,Thornton,m,1969,Saint Vincent and the Grenadines
+Bernie,Casey,f,1966,Jamaica
+Nam,Gregory,f,1954,Niue
+Mason,O'connor,m,1971,Greenland
+Melodee,Ratliff,f,1970,Uruguay
+Ashley,Collier,m,1956,Rwanda
+Christian,Durham,m,1979,Taiwan
+Curtis,Mckenzie,m,1982,Peru
+Wilmer,Webster,m,1960,Haiti
+Claude,Short,m,1972,China
+Malika,Tyson,f,1950,Oman
+Brendon,Berger,m,1953,Martinique
+Ariane,Boyd,f,1962,Central African Republic
+Luigi,Sloan,m,1968,British Virgin Islands
+Mendy,Sargent,f,1951,Kiribati
+Hank,Beach,m,1974,New Zealand
+Joel,Patel,m,1982,Kiribati
+September,Kennedy,f,1955,Bhutan
+Tinisha,Daniels,f,1952,Guatemala
+Verlene,Mendez,f,1953,Eritrea
+Mariel,Ayala,f,1982,American Samoa
+Kenneth,Ingram,m,1973,Swaziland
+Tanja,Wheeler,f,1983,Guadeloupe
+Myrle,Merritt,f,1978,Austria
+Ervin,Yang,m,1987,Gibraltar
+Floyd,Farley,m,1968,Palau
+Eustolia,Baldwin,f,1973,Kiribati
+Vanna,Mclaughlin,f,1951,Ethiopia
+Kristeen,Solis,f,1955,Estonia
+Delisa,Downs,f,1950,Gibraltar
+Loyd,Houston,m,1958,Kenya
+Trula,Cannon,f,1978,Czech Republic
+Nickie,Rodriquez,f,1963,El Salvador
+Antone,Lynch,m,1964,American Samoa
+Elmer,Hayden,m,1952,New Caledonia
+Julius,Leonard,m,1963,Turks and Caicos Islands
+Houston,Herring,m,1969,Isle of Man
+Ross,Patrick,m,1967,Malawi
+Cassey,Keller,f,1980,Eritrea
+Mila,Pate,f,1977,Togo
+Cris,Peters,f,1983,Aruba
+Loyd,Avila,m,1953,Greenland
+Tien,Bauer,f,1959,Christmas Island
+Lesley,Brock,m,1968,Liechtenstein
+Antwan,Kelley,m,1954,Taiwan
+Vanetta,Robertson,f,1963,Trinidad and Tobago
+Fidelia,Flynn,f,1955,Central African Republic
+Sherise,Aguilar,f,1953,Sweden
+Caleb,Slater,m,1957,Slovakia (Slovak Republic)
+Jed,Santos,m,1966,Lao People's Democratic Republic
+Asa,Valenzuela,m,1956,Tajikistan
+Dario,Woodward,m,2000,British Indian Ocean Territory (Chagos Archipelago)
+Caroll,Fowler,f,1986,Cook Islands
+Thomas,Battle,m,1967,Zambia
+Lawerence,Orr,m,1967,Guadeloupe
+Kirby,David,f,1993,Antigua and Barbuda
+Consuela,Henry,f,1967,Jamaica
+Francie,Gay,f,1951,French Polynesia
+Norris,Bennett,m,1966,Lithuania
+Houston,Matthews,m,1970,United States of America
+Lourie,Gould,f,1988,Netherlands Antilles
+Kelvin,Stewart,m,1988,Guernsey
+Tyler,Kelly,m,1967,Puerto Rico
+Andre,Curtis,m,1951,Bosnia and Herzegovina
+Alexis,Ayers,m,1979,Guinea-Bissau
+Deandre,Owens,m,1967,San Marino
+Elliot,Duffy,m,1950,China
+Domenica,Velasquez,f,1970,Korea
+Grant,Faulkner,m,1977,United States Virgin Islands
+Dorian,Waters,m,1974,Cyprus
+Haywood,Yang,m,1971,El Salvador
+Willian,Pope,m,1967,Singapore
+Lelah,Everett,f,1952,Poland
+Jeanett,Clemons,f,1951,Netherlands
+Larry,Clemons,m,1968,Sudan
+Rebbeca,Boyer,f,1967,British Virgin Islands
+Layla,Daugherty,f,1955,Maldives
+Maurice,Walton,m,1990,Mozambique
+Jake,Mcgowan,m,1959,New Caledonia
+Caron,Knight,f,1998,Zambia
+Tyree,Monroe,m,1974,Antigua and Barbuda
+Willard,Blankenship,m,1952,Saint Martin
+Lewis,Pratt,f,1952,Iran
+Quyen,Chavez,f,1972,Comoros
+Shera,Mayo,f,1971,Barbados
+Anneliese,Powers,f,1972,Greenland
+Caroyln,Cain,f,1969,Mexico
+Jona,Gibbs,f,1950,Libyan Arab Jamahiriya
+Titus,Walsh,m,1970,Uzbekistan
+Raphael,Fitzgerald,m,1977,Monaco
+Hang,Rosa,f,1969,Kuwait
+Elmer,Lopez,f,1966,Timor-Leste
+Vanita,Schneider,f,1952,Isle of Man
+Garth,Stanton,m,1995,Bermuda
+Hien,Ellis,f,1969,Burkina Faso
+Earnest,Villarreal,m,1953,Armenia
+Aleisha,Bean,f,1979,Benin
+Leland,Blackwell,m,1952,Estonia
+Noel,Daniel,m,1963,Argentina
+Robena,Ramirez,f,1956,Peru
+Gus,Sparks,m,1950,Guyana
+Otha,Pollard,f,1974,Nauru
+Alfonzo,Macias,m,1988,Barbados
+Robert,Estrada,m,1961,Antarctica (the territory South of 60 deg S)
+Lahoma,Cabrera,f,1959,Swaziland
+Bertram,Mcmillan,m,1968,Australia
+Morton,Lyons,m,1953,Cape Verde
+Daysi,Hooper,f,1962,Slovakia (Slovak Republic)
+Zenia,Bishop,f,1958,Spain
+Cassondra,Cooley,f,1969,Antigua and Barbuda
+Laraine,Cooper,f,1951,Chile
+Herman,Mathews,m,1963,Jordan
+Francesco,O'neil,m,1969,Uruguay
+Mellie,Odom,f,1974,French Southern Territories
+Willis,Kent,m,1973,Vietnam
+Melynda,Ruiz,f,1979,Portugal
+Devon,Ingram,m,1964,Mozambique
+Ellsworth,Garner,m,1996,Latvia
+Robena,Pittman,f,1960,Togo
+Garland,Burke,m,1952,Sri Lanka
+Sherley,Booth,f,1983,Nicaragua
+Tona,Ayala,f,1954,Uzbekistan
+Rebbecca,Ferrell,f,1973,Norfolk Island
+Theodore,Davenport,m,1981,Falkland Islands (Malvinas)
+Lane,Calhoun,f,1953,China
+Clemente,Wright,m,1961,Lebanon
+Joane,Pollard,f,1987,Senegal
+Maegan,Compton,f,1950,Sierra Leone
+Dede,Cantu,f,1971,Micronesia
+Lucius,Maddox,m,1954,Malawi
+Dreama,Sullivan,f,1979,Azerbaijan
+Launa,Brooks,f,1959,Oman
+Jimmie,Howell,m,1956,Martinique
+Leontine,Maddox,f,1952,Paraguay
+Garfield,Bridges,m,1963,Macedonia
+Ashlea,Emerson,f,1990,Somalia
+Doyle,Daniels,m,1975,Anguilla
+Edmond,Harris,m,1957,Saint Barthelemy
+Bradley,Butler,m,1952,Ukraine
+Maisha,Boyd,f,1963,Honduras
+Cayla,Bradshaw,f,1959,Cocos (Keeling) Islands
+Emil,Mitchell,m,1962,Congo
+Quyen,Short,f,1961,Greenland
+Zackary,Moses,m,1958,Botswana
+Colton,Briggs,m,1964,Cambodia
+Frances,Roman,m,1958,Malawi
+Layne,Solis,f,1955,Turkmenistan
+Robena,Travis,f,1956,Belarus
+Ramonita,Kelly,f,1971,Saint Barthelemy
+Lon,Donovan,m,1951,British Indian Ocean Territory (Chagos Archipelago)
+Travis,French,f,1952,Canada
+Brunilda,Sargent,f,1956,Macedonia
+Fernande,Bolton,f,1953,Andorra
+Louis,O'neil,m,1953,Maldives
+Chara,Blevins,f,1950,Mauritius
+Benito,English,m,1965,Norfolk Island
+Risa,O'brien,f,1961,Israel
+Beau,Owen,m,1957,Croatia
+Booker,Blair,m,1951,United Arab Emirates
+Marshall,Clements,m,1962,Poland
+Millard,Carr,m,1954,United Arab Emirates
+Jann,Gentry,f,1972,Kiribati
+Scotty,Roberts,m,1962,China
+Samual,Ferguson,m,1953,Monaco
+Broderick,Kinney,m,1964,Poland
+Shon,Horton,m,1967,Yemen
+Edgardo,Mcfarland,m,1952,Syrian Arab Republic
+Brice,Sexton,m,1951,Argentina
+Fritz,Summers,m,1974,Bangladesh
+Jonelle,Salinas,f,1966,Macedonia
+Berna,Hogan,f,1972,Jersey
+Rueben,Maddox,m,1982,Macedonia
+Jerome,Gilliam,m,1958,Antigua and Barbuda
+Codi,Velez,f,1984,Tonga
+Genna,Weiss,f,1985,Cyprus
+Young,Houston,m,1953,Ukraine
+Beau,Pacheco,m,1990,Faroe Islands
+Jessie,Crawford,m,1982,Macedonia
+Cherelle,Downs,f,1951,Comoros
+Joi,Morrison,f,1976,Saint Kitts and Nevis
+Jesusita,Ayala,f,1968,Austria
+Margene,Shaw,f,1961,Finland
+Teofila,Chaney,f,1951,Korea
+Yon,Blankenship,f,1958,United States Minor Outlying Islands
+Mafalda,Newton,f,1985,Central African Republic
+Shayne,Montoya,m,1998,Barbados
+Carlena,Pickett,f,1959,Angola
+Avery,Skinner,m,1972,Suriname
+Waylon,Baird,m,1951,Malawi
+Annis,Hicks,f,1961,American Samoa
+Everett,Glenn,m,1962,Grenada
+Isaias,O'neill,m,1954,Martinique
+Marcel,Nguyen,m,1964,Tuvalu
+Elin,Hickman,f,1966,Spain
+Elvis,Long,m,1963,Norfolk Island
+Dalton,Bailey,m,1953,Belgium
+Pablo,Castaneda,m,1961,Guinea
+Amos,Gibson,m,1970,New Zealand
+Tamiko,Meadows,f,1977,Trinidad and Tobago
+Junior,Alvarado,m,1972,Suriname
+Sharyl,Mitchell,f,1959,Holy See (Vatican City State)
+Freddy,Merrill,m,1952,Gabon
+Mirella,Bailey,f,1953,Heard Island and McDonald Islands
+Niesha,Langley,f,1963,Congo
+Roni,William,f,1955,Liechtenstein
+Sharmaine,Padilla,f,1956,Australia
+Brinda,Thomas,f,1973,Bosnia and Herzegovina
+Bryant,Rodriguez,m,1956,Ghana
+Shane,Strickland,f,1954,Burundi
+Royce,Travis,m,1952,Colombia
+Todd,Long,m,1974,Burundi
+Carlo,Martinez,m,1988,Mauritania
+Alan,Cox,m,1979,British Virgin Islands
+Shyla,Parks,f,1952,Peru
+Cristie,Langley,f,1968,Guinea-Bissau
+Laurinda,Coffey,f,1991,Singapore
+Edra,Lawrence,f,1976,Senegal
+Carlena,Cross,f,1969,Norfolk Island
+Lawrence,Kirkland,f,1957,Bermuda
+Lashay,Kim,f,1970,Suriname
+Willene,Montoya,f,1977,South Georgia and the South Sandwich Islands
+Rosamond,Flowers,f,1968,Palau
+Vivan,Duran,f,1962,Saint Pierre and Miquelon
+Han,Jackson,f,1969,Saint Helena
+Garry,Bartlett,m,1952,Cambodia
+Dale,Holman,m,1951,Thailand
+Kip,Velazquez,m,1955,Peru
+Minh,Bender,m,1995,Somalia
+William,Durham,m,1963,Ireland
+Damon,Calhoun,m,1953,Cambodia
+Quinn,Levy,f,1981,British Indian Ocean Territory (Chagos Archipelago)
+Edward,Scott,m,2003,Yemen
+Daryl,Frederick,f,1958,Montenegro
+Perry,Mack,f,1952,Ukraine
+Joey,Roberts,m,1959,Cayman Islands
+Myrta,Klein,f,1962,Norfolk Island
+Mack,Sellers,m,1966,Czech Republic
+Earlean,Vance,f,1955,Dominica
+Robert,Morrison,m,1951,Maldives
+Ammie,Page,f,1963,Denmark
+Jenine,Watkins,f,1959,Denmark
+Dennis,Savage,m,1956,Bhutan
+Garth,Nolan,m,1952,Guatemala
+Gertrudis,Potter,f,1963,New Zealand
+Gertrud,Mcknight,f,1966,Fiji
+Qiana,Prince,f,1969,Bahamas
+Delpha,Whitehead,f,1963,Micronesia
+Jesenia,Drake,f,1957,Niue
+Kyle,Rasmussen,m,2000,Belarus
+Teodora,Peck,f,1979,Bahamas
+Nicolas,Watkins,m,1969,Montenegro
+Katia,Hernandez,f,1960,Macedonia
+Nelia,Sharpe,f,1951,Niue
+Chung,Stark,m,1955,Pakistan
+Chieko,Koch,f,1957,Mongolia
+Yelena,Flores,f,1969,Faroe Islands
+Sherley,Herrera,f,1955,Tunisia
+Lynetta,Spence,f,1950,Suriname
+Larry,Wilkerson,m,1950,Armenia
+Clarinda,Buckner,f,1957,Vietnam
+Percy,Fitzpatrick,m,1953,Cambodia
+Kiera,Jacobson,f,1952,Cocos (Keeling) Islands
+Nikole,Pearson,f,1952,Jersey
+Gala,Mcintosh,f,1953,Tunisia
+Buena,Albert,f,1965,Swaziland
+Eldridge,Lindsey,m,1958,Montenegro
+Chassidy,Hayes,f,1953,Barbados
+Alfonzo,Knight,m,1978,Portugal
+Ayana,Gates,f,1950,Turkey
+Jordan,Shelton,m,1972,Ukraine
+Daren,Tate,m,1981,Liberia
+Laurena,Cooley,f,1953,Marshall Islands
+Ismael,Jennings,m,1955,Estonia
+Rodger,Myers,m,1983,South Georgia and the South Sandwich Islands
+Tristan,Carter,f,1965,Lao People's Democratic Republic
+Lemuel,Robles,m,1967,Zimbabwe
+Enrique,Hatfield,m,1974,United States of America
+Marketta,Sloan,f,1960,Luxembourg
+Deloise,Wolf,f,1969,Myanmar
+Shantae,Rodriguez,f,1991,Malta
+Guadalupe,Pearson,m,1962,Singapore
+Sam,Buckley,m,1956,Palau
+Filiberto,Shepard,m,1958,Samoa
+Stacee,Pena,f,1963,Eritrea
+Maryln,Wade,f,1965,San Marino
+Nicol,Robertson,f,1950,Haiti
+Evita,Velez,f,1958,Jordan
+Tyler,Cruz,m,1960,Azerbaijan
+Rozanne,Thompson,f,1957,Colombia
+Clarita,Dalton,f,1954,Norfolk Island
+Aurelio,Bean,m,1977,Togo
+Claretha,Woodard,f,1954,Palau
+Sanda,George,f,1963,Kiribati
+Tyler,Callahan,f,1951,Malaysia
+Pearly,Shepard,f,1958,British Indian Ocean Territory (Chagos Archipelago)
+Christinia,Cardenas,f,1951,Bosnia and Herzegovina
+Marivel,Lindsey,f,1959,Mexico
+Melvin,Peters,f,1957,Philippines
+Madie,Beasley,f,1950,Maldives
+Jeffery,Keller,m,1953,Vietnam
+Jaye,Baker,f,1985,Turkey
+Lamont,Leach,m,1958,Jordan
+Scott,Wallace,m,1972,French Guiana
+Lynsey,Lambert,f,1971,Cocos (Keeling) Islands
+Michel,Gibbs,m,1952,Grenada
+Tyson,Yang,m,1989,Congo
+Lajuana,Strong,f,1956,Qatar
+Sherill,Scott,f,1993,Angola
+Willard,Moody,m,1966,Italy
+Lakenya,Nolan,f,1954,Saint Barthelemy
+Kurt,Caldwell,m,1957,Egypt
+Eloy,Harmon,m,1953,Andorra
+Caleb,Garrett,m,1950,Turkmenistan
+Daren,Garner,m,1952,India
+Yuriko,Marsh,f,1973,South Africa
+Marcellus,Kirby,m,1962,Bahrain
+Ivey,Scott,f,1967,India
+Raina,Lowe,f,1951,Oman
+Amberly,Foreman,f,1952,Saint Kitts and Nevis
+Freddie,Carpenter,m,1957,Kuwait
+Lemuel,Mays,m,1963,Timor-Leste
+Cedrick,Schultz,m,1959,Chile
+Delora,Blake,f,1958,Pakistan
+Mirtha,Moran,f,1951,Fiji
+Pia,Todd,f,1960,Kazakhstan
+Alphonse,Malone,m,1957,Ghana
+Elodia,Lara,f,1954,Croatia
+Eli,Emerson,m,1952,Mozambique
+Edmund,Whitley,m,1966,Cambodia
+Lean,Kirk,f,1950,Brunei Darussalam
+Rosenda,England,f,1962,Vietnam
+Ruthanne,Owen,f,1993,Belize
+Royce,Ayala,m,1971,Montserrat
+Conception,Rowland,f,1987,Turkmenistan
+Garrett,Good,m,1977,Iceland
+Mike,Weiss,m,1959,Moldova
+Wayne,Giles,m,1968,Saint Helena
+Angele,Wilder,f,1959,Bolivia
+Adalberto,Robbins,m,1951,Trinidad and Tobago
+Tamisha,Marquez,f,1963,Mali
+Trudi,Vang,f,1999,Egypt
+Brunilda,Nelson,f,1972,United Arab Emirates
+Kali,Curtis,f,1969,Iran
+Val,Rice,f,1960,Anguilla
+Britt,Clemons,m,1959,Cook Islands
+Layla,Melendez,f,1965,Belize
+Robert,Graham,m,1952,Honduras
+Ruthanne,Mooney,f,1954,Brunei Darussalam
+Angelika,Woodward,f,1960,Tunisia
+Yasuko,Shannon,f,1962,Svalbard & Jan Mayen Islands
+Darryl,Schmidt,m,1952,Ukraine
+Andera,Franklin,f,1966,Syrian Arab Republic
+Isiah,Mercado,m,1963,Sao Tome and Principe
+Ali,Webster,m,1950,Faroe Islands
+Jeneva,Trujillo,f,1969,Cote d'Ivoire
+Mandie,Reyes,f,1961,French Guiana
+Rudy,Woodward,m,1954,United States of America
+Randee,Dickson,f,1962,Venezuela
+Tommy,Ferguson,m,1953,Taiwan
+Willard,Nieves,m,1960,Bermuda
+Dell,Stanton,f,1954,Tanzania
+Tari,Delacruz,f,1988,United Arab Emirates
+Denyse,Craft,f,1950,Korea
+Sona,Dennis,f,1952,Gibraltar
+Hae,Greene,f,1951,Northern Mariana Islands
+Harry,Petersen,m,1956,India
+Heidy,Valencia,f,1953,Sri Lanka
+Sherwood,Fields,m,1983,Pitcairn Islands
+Emerson,William,m,1976,Saint Vincent and the Grenadines
+Darrick,Nichols,m,1958,Jersey
+Benny,Campos,m,1954,Eritrea
+Granville,Ayers,m,1959,Afghanistan
+Dayle,Robles,f,1978,Palestinian Territory
+Dane,Foreman,m,1977,Spain
+Milton,Stokes,m,1967,Bolivia
+Jeffrey,Sanders,m,1960,Honduras
+Samella,Luna,f,1957,Malawi
+Shad,Petty,m,1959,Togo
+Alfred,Mcdonald,m,1952,Nepal
+Loreta,Spence,f,1962,Christmas Island
+Rosena,Grant,f,1966,Palau
+Danny,Blevins,m,1981,Burkina Faso
+Tobias,Stevenson,m,1957,Solomon Islands
+Roberto,Koch,f,1986,Guatemala
+Keva,Gross,f,1972,Bermuda
+Thad,Buchanan,m,1951,Montenegro
+Samira,Floyd,f,1965,Cuba
+Wilfred,Trujillo,m,1999,Latvia
+Regine,Mejia,f,1965,Western Sahara
+Jule,Moon,f,1956,Christmas Island
+Joshua,Fox,f,1957,Uruguay
+Marcelino,Crosby,m,1968,Solomon Islands
+Neomi,Mathis,f,1955,Eritrea
+Norberto,Wilcox,m,1956,Togo
+Risa,Curtis,f,1960,Burundi
+Greg,Graham,m,1955,Samoa
+Emelda,Macdonald,f,1960,Brunei Darussalam
+Liberty,Mcclain,f,1975,Guinea-Bissau
+Katlyn,Witt,f,1952,Cameroon
+Ladawn,Phelps,f,1953,Reunion
+Thresa,Kim,f,1957,Montserrat
+Harold,Robles,f,1960,Turkmenistan
+Daryl,Goff,f,1967,Tajikistan
+Carlos,Barron,f,1957,Finland
+Nubia,Glenn,f,1973,Malta
+Edyth,Harper,f,1984,Slovakia (Slovak Republic)
+Maia,Tucker,f,1953,Andorra
+Chantay,Gay,f,1976,Canada
+Nancie,Mendoza,f,1956,Turkey
+Osvaldo,Levy,m,1991,Puerto Rico
+Randy,Edwards,m,1952,Vietnam
+Julio,Charles,m,1955,Kiribati
+Raisa,Schneider,f,1954,Heard Island and McDonald Islands
+Clementina,O'neill,f,1976,Guinea-Bissau
+Cruz,Osborne,m,1964,Lithuania
+Reanna,Woodard,f,1976,Mexico
+Roderick,Acevedo,m,1959,Bangladesh
+Rickie,Barlow,f,1968,Hong Kong
+Steve,Collins,m,1952,Mauritania
+Mabelle,Livingston,f,1964,Timor-Leste
+Rickey,Meyer,m,1966,Armenia
+Jovan,Pope,f,1981,Ukraine
+Carlton,Casey,m,1950,Belize
+Rana,Vincent,f,1964,Congo
+Ron,Raymond,m,1980,Kuwait
+Hae,Daugherty,f,1955,Aruba
+Ezra,Ryan,m,1956,Jersey
+Lauralee,Vincent,f,1966,Mali
+Trey,Haley,m,1952,Bulgaria
+Lon,Beck,m,1981,Bolivia
+Deedee,Conner,f,1955,Libyan Arab Jamahiriya
+Rolland,Burton,m,1966,Algeria
+Telma,Merritt,f,1980,Uruguay
+Ela,Gross,f,1975,Malta
+Angelena,Bishop,f,1950,Guyana
+Rolland,Leblanc,m,1952,United States Minor Outlying Islands
+Sammy,Pena,m,1995,Georgia
+Bruna,Hurley,f,1951,Netherlands Antilles
+Clinton,Barker,m,1969,Puerto Rico
+Delora,Martin,f,1977,Liechtenstein
+Royal,Tyson,m,1963,Saint Martin
+Vanita,Johnston,f,1972,Cocos (Keeling) Islands
+Agripina,Marks,f,1992,Mali
+Antonina,Russell,f,1962,Christmas Island
+Crysta,Estrada,f,1966,Wallis and Futuna
+Kyoko,Knapp,f,1983,Macedonia
+Dagny,Bernard,f,1975,Romania
+Theola,Collins,f,1957,Algeria
+Winford,Sheppard,m,1977,Nauru
+Allen,Mayo,m,1958,Aruba
+Bobby,Little,m,1960,Chad
+Tiffiny,Shelton,f,1956,Falkland Islands (Malvinas)
+Antonia,Mays,m,1954,Iceland
+Leon,Cox,m,1970,Wallis and Futuna
+Joel,Kane,f,1953,Niue
+Hyacinth,Wagner,f,1954,Azerbaijan
+Lindsay,Rice,m,1975,China
+Chantell,White,f,1981,Morocco
+Bulah,Melton,f,1967,Italy
+Mel,Stark,m,1981,Italy
+Kent,Stevenson,m,1953,Liberia
+Stormy,Mercer,f,1989,Brunei Darussalam
+Kelley,Pratt,m,1988,Singapore
+Rasheeda,Guzman,f,1952,Mali
+Linsey,Wolf,f,1956,Holy See (Vatican City State)
+Lavenia,Thompson,f,1957,Hong Kong
+Shelby,Camacho,m,1988,Ghana
+Lloyd,Lopez,m,1952,Portugal
+Iluminada,Booth,f,1957,Micronesia
+Edmond,Mckinney,m,1954,Martinique
+Milagro,Gill,f,1962,Tokelau
+Ashlyn,Jefferson,f,1963,Tuvalu
+Daniel,Gray,m,1997,Lithuania
+Janiece,Gilbert,f,1953,Peru
+Beula,Mcclure,f,1955,Sudan
+Edward,Delaney,f,1956,Comoros
+Yuki,Stanley,f,1982,Dominica
+Sirena,Calderon,f,1998,Grenada
+Coy,Delaney,m,1952,Iceland
+Alvin,Watkins,m,1954,Cyprus
+Lady,Harding,f,1968,Comoros
+Theressa,Hurley,f,1951,Tunisia
+Leo,Horne,f,1964,Mauritania
+Frederica,Dudley,f,1954,Saint Helena
+Haywood,Pickett,m,1962,Wallis and Futuna
+Randal,Arnold,m,1953,French Southern Territories
+Mee,Robinson,f,1950,Belarus
+Kieth,Suarez,m,1975,Senegal
+Dionna,Watkins,f,1955,Lithuania
+Son,Sandoval,f,1967,Macedonia
+Sherly,Kelly,f,1963,Jamaica
+Timothy,Wooten,m,1978,Tokelau
+Cesar,Randolph,m,1953,Madagascar
+Elliot,Barry,m,1980,United States Virgin Islands
+Julius,Robinson,m,1950,Thailand
+Kayleen,Vaughan,f,1958,Sao Tome and Principe
+Alfredo,Maldonado,m,1953,Moldova
+Ben,Hendricks,m,1972,Central African Republic
+Johnie,Logan,m,1951,Greece
+Eric,Lynn,m,1972,Belize
+Maximo,Jensen,m,1959,Australia
+Thurman,Carr,m,1972,Turkmenistan
+Jackelyn,Miller,f,1965,Gabon
+Alvaro,Moss,m,1952,Saint Pierre and Miquelon
+Chung,Guy,f,1957,Guernsey
+Paris,Mccarthy,m,1961,Saint Lucia
+Pablo,Head,m,1952,Fiji
+Natosha,Mason,f,1953,Rwanda
+Valene,Murphy,f,1952,Wallis and Futuna
+Angeles,Pickett,f,1962,Guyana
+Ha,Walton,f,1952,Greenland
+Curtis,Buchanan,f,1962,Israel
+Tony,Hopper,m,1986,Ghana
+Harris,Luna,m,1974,Uganda
+Trang,Olsen,f,1960,Jersey
+Palmira,Potter,f,1957,Turkey
+Sherill,Knapp,f,1965,Christmas Island
+Sharice,Everett,f,1964,Western Sahara
+Parker,Carrillo,m,1979,Luxembourg
+Jesusita,Cline,f,1969,India
+Edmundo,Murphy,m,1980,Guam
+Barney,Wilkinson,m,1951,Mali
+Glenn,Leonard,m,1954,Haiti
+Margarite,Dalton,f,1989,Tokelau
+Ricki,Parrish,f,1963,Gibraltar
+Winston,Gilliam,m,1952,Qatar
+Cherryl,Houston,f,1990,Sudan
+Josef,Kramer,m,1964,Guyana
+Dalene,Keller,f,1951,Greenland
+Lucien,Robles,m,1985,Myanmar
+Young,Crawford,m,1960,Sao Tome and Principe
+Marcelino,Shepherd,m,1968,Estonia
+Eddy,Johnson,m,1963,Switzerland
+Xochitl,Mills,f,1961,Netherlands Antilles
+Mafalda,Holland,f,1953,Cook Islands
+Celena,Dennis,f,1959,Benin
+Abraham,Taylor,m,1968,Ukraine
+Jeanelle,Romero,f,1955,Montenegro
+Walton,Noble,m,1969,United States Virgin Islands
+Russ,Cobb,m,1962,Ireland
+Ervin,Britt,m,1980,Philippines
+Clair,Schmidt,m,1973,Mali
+Lanell,Charles,f,1955,Montserrat
+Bob,Curtis,m,1953,Venezuela
+Gregorio,Martin,m,1951,Gibraltar
+Leroy,Hardy,m,1966,Bangladesh
+Jewell,Langley,m,1959,Vietnam
+Jon,Parsons,m,1950,Macao
+Jamie,Downs,m,1958,Bahamas
+Margaretta,Harrington,f,1957,Marshall Islands
+Rubin,Marks,m,1969,Uruguay
+Laverne,Rocha,m,1965,Brazil
+Francina,Castaneda,f,1980,Albania
+Edwardo,Marquez,m,1971,Sudan
+Deandra,Butler,f,1956,Taiwan
+Marg,Silva,f,1954,Timor-Leste
+Norman,Grant,m,1977,Ecuador
+Elfreda,Carver,f,1963,Greece
+Cleveland,Gray,m,1971,Guernsey
+Dominic,Hudson,m,1981,Macao
+Saul,Powell,m,1961,Belize
+Gustavo,Hoffman,m,1975,Burkina Faso
+Antoine,Russell,m,1973,Venezuela
+Werner,Nicholson,m,1994,Venezuela
+Omar,Mercer,m,1954,Jersey
+Jazmine,Wise,f,1978,Uruguay
+Earlean,Beach,f,1972,Luxembourg
+Ranae,Scott,f,1970,Norway
+Shelton,Walter,m,1960,Yemen
+Laurene,Herring,f,1950,Sierra Leone
+Ron,Bell,m,1987,Thailand
+Odell,Lindsey,m,1952,Spain
+Rob,Gallagher,m,1992,Estonia
+Benito,George,m,1961,Mayotte
+Kristian,Frederick,f,1961,Uzbekistan
+Lacy,Bishop,m,1958,Denmark
+Deandrea,Castillo,f,1977,Honduras
+Galen,Vargas,m,1972,Jamaica
+Reginald,Duke,m,1954,Japan
+Vince,Jordan,m,1977,Colombia
+Jamar,Mathis,m,1958,Guatemala
+Jesus,Wolf,f,1956,Iran
+Jene,Austin,f,1955,Costa Rica
+Melvin,Cote,m,1968,Eritrea
+Britt,Mitchell,m,1979,Canada
+Cyril,Guy,m,1954,Croatia
+Allen,Sweeney,m,1975,Egypt
+Bok,Sampson,f,1987,Dominica
+Brian,Douglas,m,1961,Turkey
+Trinh,Clemons,f,1970,China
+Barney,David,m,1960,Saudi Arabia
+Bob,Joyce,m,1970,Guatemala
+Gerard,Gates,m,1975,Tuvalu
+Carol,Shepherd,m,1991,United States of America
+Dominic,Hayes,m,1986,Mozambique
+Lacresha,Mcgowan,f,1959,Slovakia (Slovak Republic)
+Rueben,Suarez,m,2000,Jamaica
+Dwayne,Fisher,m,1950,Nigeria
+Damion,Buck,m,1951,Norway
+Ghislaine,Wyatt,f,1963,Finland
+Michael,Hodge,m,1960,Guadeloupe
+Karly,Daugherty,f,1955,Latvia
+Stacey,Shaffer,m,1960,Canada
+Mistie,Blanchard,f,1956,Cambodia
+Gabriel,Walsh,f,1963,Saint Barthelemy
+Rod,Jarvis,m,1996,Uruguay
+Rolando,James,m,1950,Saudi Arabia
+Trey,Barrett,m,1952,Cook Islands
+Anja,Davis,f,1970,Micronesia
+Nikia,Frost,f,1955,Togo
+Ashley,Galloway,m,1952,Comoros
+Carolin,Carroll,f,1954,Congo
+Hugo,Morrow,m,1964,Myanmar
+Katheleen,Hart,f,1963,Sri Lanka
+Kasie,Webster,f,1951,Bahrain
+Moriah,Hubbard,f,1959,Saint Lucia
+Omer,Hampton,m,1950,Cook Islands
+Wallace,Olson,m,1974,Guinea
+Roland,Camacho,m,1960,Poland
+Shaunda,Stone,f,1975,Albania
+Louie,Brady,m,1958,Pakistan
+Beaulah,Leach,f,1959,Jordan
+Lorina,Bright,f,1951,French Polynesia
+Tyrell,James,m,1968,Iceland
+Suellen,Blackburn,f,1970,Kuwait
+Tyree,Vinson,m,1951,United States Virgin Islands
+Archie,Bailey,m,1965,Namibia
+Coralie,Baird,f,1960,Uganda
+Nolan,Lynch,m,1965,Suriname
+Hai,Wise,m,1954,Saint Barthelemy
+Curtis,Barrett,f,1960,Cambodia
+Lawrence,Berry,m,1958,Saint Lucia
+Lezlie,Whitfield,f,1956,Turks and Caicos Islands
+Alia,Shaw,f,1982,Bulgaria
+Reanna,Walton,f,1964,Czech Republic
+Tamisha,Nieves,f,1998,Solomon Islands
+Tran,Giles,f,1956,Cuba
+Katrice,Landry,f,1974,Guinea
+Glen,English,m,1955,Niue
+Chong,Gates,m,1951,French Polynesia
+Aldo,Nielsen,m,1964,Mongolia
+Monte,Mclean,m,1969,Brunei Darussalam
+Johnie,Campbell,m,1963,Libyan Arab Jamahiriya
+Hyo,Huff,f,1956,Falkland Islands (Malvinas)
+Jerold,Elliott,m,1952,Netherlands
+Freddy,Wilkinson,m,1953,Saint Vincent and the Grenadines
+Shirl,Beck,f,1955,Sierra Leone
+Evan,Foreman,f,1986,New Caledonia
+Stephen,Wheeler,m,1973,Wallis and Futuna
+Kelley,Mcclure,m,1965,Germany
+Hermila,Graham,f,1971,Puerto Rico
+Andree,Booth,f,1952,Suriname
+Stacey,Washington,m,1966,Sudan
+Mitchell,Pickett,m,1976,France
+Georgianne,Jordan,f,1987,Azerbaijan
+Keli,Ruiz,f,1964,Macedonia
+Carter,Witt,m,1955,Guam
+Oneida,Bartlett,f,1952,Palau
+Curtis,Waters,m,1975,Equatorial Guinea
+Jonell,Wheeler,f,1953,Saint Barthelemy
+Ji,Sullivan,f,1953,Qatar
+Tomika,Jordan,f,1955,Equatorial Guinea
+Deandrea,Woodward,f,1960,Monaco
+Esteban,Hewitt,m,1986,Congo
+Marcel,Russo,m,1957,Nepal
+Milan,Holder,m,1984,Cameroon
+Joaquina,Jimenez,f,1951,Poland
+Velvet,Howe,f,1964,Northern Mariana Islands
+Erick,Dawson,m,1984,Montenegro
+Nathan,Chambers,m,1953,Cocos (Keeling) Islands
+Danilo,Rosario,m,1959,Falkland Islands (Malvinas)
+Wesley,Tate,m,1958,Faroe Islands
+Brande,Soto,f,1952,Paraguay
+Elanor,Reyes,f,1982,Nepal
+Vernon,Parker,m,1960,Puerto Rico
+Lorean,Davenport,f,1981,Portugal
+Christopher,Stone,m,1980,Qatar
+Salvador,Rowland,m,1996,Italy
+Wilbur,Spears,m,1961,Burundi
+Waltraud,Perkins,f,1968,Palestinian Territory
+Thomas,Bender,m,1984,Ireland
+Cordell,Buckley,m,1956,Lesotho
+Fletcher,Case,m,1967,Sao Tome and Principe
+Alane,Santos,f,1954,Sudan
+Serita,Mcguire,f,1960,Chad
+Jackeline,Burnett,f,1988,Suriname
+Omega,Fuentes,f,1962,Gambia
+Doug,Gallegos,m,1956,French Guiana
+Deangelo,Lucas,m,1974,Saint Barthelemy
+Shawana,Rowe,f,1964,Barbados
+Telma,Hobbs,f,1951,Mayotte
+Lannie,Bowers,f,1975,Sierra Leone
+Teofila,Collier,f,1956,Guam
+Patrick,Fitzgerald,f,1951,Antigua and Barbuda
+Halley,Clay,f,1970,Gibraltar
+Willy,Santiago,m,1984,Kyrgyz Republic
+Jacob,Rodriguez,m,1957,Ethiopia
+Mitchel,Chang,m,1951,Lao People's Democratic Republic
+Anette,Travis,f,1969,United States of America
+Brett,Hodges,m,1981,Barbados
+Olin,Hays,m,1979,Senegal
+Sharolyn,Nixon,f,1967,Solomon Islands
+Thurman,Gilbert,m,1972,Guatemala
+Anthony,Sykes,m,1961,Finland
+Cammie,Aguirre,f,1973,Cambodia
+Romana,Todd,f,1963,Equatorial Guinea
+Thad,Farmer,m,1976,Timor-Leste
+Joana,Atkins,f,1956,Saint Kitts and Nevis
+Ricki,Stokes,f,1959,Antarctica (the territory South of 60 deg S)
+Leonard,Irwin,m,1967,Panama
+Jenice,Ochoa,f,1993,Saint Martin
+Shane,Cox,f,1950,Samoa
+Gia,Knowles,f,1956,Burkina Faso
+Ramiro,Lynn,m,1953,Rwanda
+Paris,Bray,m,1997,Isle of Man
+Ela,Garza,f,1954,Saint Kitts and Nevis
+Willis,Floyd,m,1991,Romania
+Nathaniel,Gibbs,m,1963,Jersey
+Mellie,Best,f,1951,Vanuatu
+Santiago,Ortega,m,1976,Saudi Arabia
+Kip,Nelson,m,1951,Turkey
+Ben,Delaney,m,1963,Marshall Islands
+Francesco,Stark,m,1977,Latvia
+Geoffrey,Rivera,m,1959,Iraq
+Ellena,Greene,f,1972,Liberia
+Romana,Weaver,f,1952,Morocco
+Benito,Garrett,m,1960,Austria
+Marilu,West,f,1956,Turkmenistan
+Johnny,Bass,m,1961,Tanzania
+Kurt,Branch,m,1961,Brazil
+Beatris,Gonzalez,f,1952,New Caledonia
+Grayce,Rodriquez,f,1953,Bahamas
+Miguel,Hogan,m,1991,Vietnam
+Marni,Morgan,f,1968,Singapore
+Laurinda,Cobb,f,1958,Estonia
+Erick,Burnett,m,1964,Palestinian Territory
+Horacio,Jensen,m,1963,Angola
+Marshall,Christian,m,1953,Gambia
+Tari,Yates,f,1967,Hong Kong
+Angelyn,Kent,f,1989,Switzerland
+Ermelinda,Hall,f,1969,Vanuatu
+Domonique,Henderson,f,1952,Liberia
+Bruce,Booker,m,1952,Macedonia
+Lamar,Beach,m,1989,Hong Kong
+Antonetta,Stephens,f,1956,Tonga
+Mikaela,Mcdaniel,f,1963,Fiji
+Cassondra,Grant,f,1952,New Zealand
+Frances,Mccray,m,1980,Lithuania
+Victorina,Sharp,f,1974,Iraq
+Kerry,Rivas,m,1954,Zimbabwe
+Dave,Doyle,m,1956,Cocos (Keeling) Islands
+Aleisha,Cunningham,f,1990,New Zealand
+Darcey,Francis,f,1959,New Caledonia
+Herb,Calderon,m,1985,Thailand
+Florentino,Nielsen,m,2004,Greenland
+Holley,Hebert,f,1952,Togo
+Jay,Orr,m,1978,Western Sahara
+Earlie,Chaney,f,1994,Cambodia
+Vance,Whitfield,m,1977,Lesotho
+Alex,Johnson,m,1950,China
+Lurline,Bird,f,1959,Isle of Man
+Pat,Chavez,m,1973,Montenegro
+Gayle,Davidson,m,1968,Cambodia
+Danae,Morris,f,1955,United Kingdom
+Lizeth,Hatfield,f,1953,Turkmenistan
+Tobias,Graham,m,1956,Vanuatu
+Burt,Slater,m,1968,Congo
+Collin,Emerson,m,1966,Slovenia
+Marcelo,Mcgowan,m,1953,Ethiopia
+Elmer,Rios,m,1957,Northern Mariana Islands
+Kit,Moon,f,1950,Uganda
+Elden,Strickland,m,1957,Kenya
+Alethea,Hester,f,1968,Bouvet Island (Bouvetoya)
+Many,Nunez,f,1950,Monaco
+Margarite,Duke,f,1983,Honduras
+Tandy,Conley,f,1966,Saint Pierre and Miquelon
+Eduardo,Benjamin,m,1951,Monaco
+Winston,Nicholson,m,1964,Mongolia
+Shawnda,Ingram,f,1980,Mali
+Hal,Bridges,m,1950,Saint Lucia
+Clyde,Bush,f,1959,Brazil
+Michelina,Sanders,f,1952,Congo
+Boyd,Skinner,m,1956,Korea
+Burton,Ferguson,m,1995,Tuvalu
+Rudolph,Morse,m,1962,Turkmenistan
+Ethyl,Carrillo,f,1973,Saint Helena
+Gerardo,Hodge,m,1961,Guinea
+Wilford,Montoya,m,1962,Heard Island and McDonald Islands
+Francesco,Bruce,m,1961,Bosnia and Herzegovina
+Ruben,Cotton,m,1973,Montserrat
+Cameron,Martinez,m,1957,Afghanistan
+Ligia,Leonard,f,1959,Uzbekistan
+Reggie,Bruce,m,1976,Tajikistan
+Marhta,Colon,f,1950,New Zealand
+Travis,Jacobs,m,1964,Holy See (Vatican City State)
+Hai,Eaton,m,1961,Kiribati
+Victorina,Sweet,f,1950,Portugal
+Bernie,Cannon,m,1953,Burkina Faso
+Hubert,Jennings,m,1951,Gambia
+Pasquale,Bartlett,m,1972,Djibouti
+Eleonore,Larsen,f,1991,Kyrgyz Republic
+Alden,Bates,m,1965,Bermuda
+Chase,Little,m,1989,Eritrea
+Usha,Newman,f,1958,Central African Republic
+Weldon,Shannon,m,1952,Tunisia
+Lane,Wiley,m,1953,Ethiopia
+Yi,Olson,f,1950,Chad
+Latashia,Donovan,f,1983,Nigeria
+Wilfredo,Freeman,m,1970,Uganda
+Billye,Reid,f,1961,Central African Republic
+Sadye,Davidson,f,1957,Svalbard & Jan Mayen Islands
+Derek,Anderson,m,1972,Djibouti
+Reid,Ayers,m,1961,Peru
+Stasia,Sutton,f,1968,Puerto Rico
+Blake,Evans,m,1954,Montserrat
+Onita,Medina,f,1965,Micronesia
+Delicia,Pennington,f,1974,Maldives
+Teddy,Carey,m,1961,Tokelau
+Larae,Rollins,f,1951,Kuwait
+Dorian,Church,m,1951,Uzbekistan
+Eloy,Reynolds,m,1988,Ghana
+Mikki,Holder,f,1962,Cayman Islands
+Erick,Lloyd,m,1964,South Georgia and the South Sandwich Islands
+Jewell,Willis,m,1989,Anguilla
+Malik,Keith,m,1956,Australia
+Lael,Mayer,f,1958,Togo
+Millard,Schmidt,m,1958,Greece
+Meg,Cotton,f,1959,Qatar
+Bryant,Miles,m,1959,Italy
+Bao,Wise,f,1950,Benin
+Lane,Leblanc,m,1952,Saint Kitts and Nevis
+Arlie,Atkinson,m,1960,Cote d'Ivoire
+Keira,Dunlap,f,1950,Ireland
+Minh,Bright,m,1981,Belize
+Davis,Fox,m,1956,British Virgin Islands
+Hosea,Cross,m,1985,Mauritius
+Dominick,Quinn,m,1959,Yemen
+Frederic,Dixon,m,1961,San Marino
+Wade,Thornton,m,1955,Guernsey
+Burton,Mitchell,m,1987,Dominica
+Cody,Phillips,m,1958,South Georgia and the South Sandwich Islands
+Rochel,Lang,f,1963,New Zealand
+Ariel,Mccarty,m,1970,Egypt
+Owen,Walsh,m,1962,Tajikistan
+Kraig,Mckinney,m,1959,Uganda
+Jeanmarie,Morales,f,1955,Turkmenistan
+Jene,Barnett,f,1954,Lesotho
+Valentin,Willis,m,1956,Jamaica
+Mason,Monroe,m,1974,Russian Federation
+Irvin,Powers,m,1956,Niger
+Jefferson,Fox,m,1951,Bangladesh
+Elbert,Gordon,m,2000,New Caledonia
+Fausto,Simpson,m,1963,Thailand
+Brian,Mclaughlin,m,1966,Mayotte
+Vito,Whitney,m,1985,Czech Republic
+Sharika,Bentley,f,1966,Colombia
+Mickie,Burke,f,1959,Falkland Islands (Malvinas)
+Sherril,Berg,f,1966,Saint Pierre and Miquelon
+Glenn,Hardin,m,1974,Chile
+Danilo,Mcmahon,m,1961,Brunei Darussalam
+Marshall,Mcintyre,m,1961,Bermuda
+Avery,Livingston,m,1995,Dominica
+Claudio,Parks,m,1970,Burundi
+Kenny,Blackburn,m,1962,Faroe Islands
+Marylouise,Freeman,f,1958,Aruba
+Otto,Brady,m,1955,Saint Vincent and the Grenadines
+Maple,Travis,f,1953,Faroe Islands
+Kai,Weber,f,1961,Isle of Man
+Ben,Knox,m,1974,Bolivia
+Charise,Mcbride,f,1951,Macedonia
+Louie,Cox,m,1958,Afghanistan
+Nicky,Koch,f,1958,Slovakia (Slovak Republic)
+Catarina,Meadows,f,1969,Switzerland
+Dakota,Horton,f,1973,Seychelles
+Ward,Mccarty,m,1970,Montenegro
+Marlin,Robles,f,1959,United States of America
+Shila,Madden,f,1963,Vanuatu
+Edward,Chan,f,1952,Nicaragua
+Billy,Mason,m,1991,Faroe Islands
+Merissa,Pate,f,1987,Chad
+Karly,William,f,1953,American Samoa
+Issac,Gonzales,m,1956,Estonia
+Clint,Thornton,m,1965,Comoros
+Trenton,Cash,m,1983,Cuba
+Rusty,English,m,1958,Turkey
+Quincy,Harrell,m,1959,Venezuela
+Maragaret,Hendrix,f,1971,British Indian Ocean Territory (Chagos Archipelago)
+Shirl,Cash,f,1969,Anguilla
+Myles,Roy,m,1960,Ireland
+Frances,Baird,m,1981,Dominican Republic
+Clayton,Little,m,1955,Sri Lanka
+Rico,Avila,m,1972,Norfolk Island
+Genesis,Henson,f,1983,Finland
+Avelina,Wallace,f,1963,Macao
+Danille,King,f,1955,Guyana
+Nubia,Dalton,f,1950,Qatar
+Tad,Rodriquez,m,1994,Burundi
+Odell,Valenzuela,m,1951,Vanuatu
+Alfonzo,Riggs,m,1961,Algeria
+Conchita,Waller,f,1959,Kenya
+Meri,Daniel,f,1955,Oman
+Deedra,Wolfe,f,1953,Estonia
+Sacha,Mays,f,1954,Honduras
+Laurence,Chan,f,1959,Saint Helena
+Vernon,Graham,m,1980,Qatar
+Evelyne,Walter,f,1970,Cook Islands
+Dexter,Cohen,m,1985,Namibia
+Arthur,Bernard,m,1967,Ethiopia
+Leo,Riley,f,1961,Bulgaria
+Randal,Patton,m,1957,Central African Republic
+Albert,Vinson,f,1957,Canada
+Alessandra,May,f,1978,Ghana
+Celsa,Delaney,f,1987,Palau
+Alonzo,Ford,m,1962,Latvia
+Rossana,Carlson,f,1973,Equatorial Guinea
+Johnsie,Watkins,f,1961,Armenia
+Brigida,Mercado,f,1968,Cape Verde
+Wilfred,Davis,m,1958,Antarctica (the territory South of 60 deg S)
+Damion,Lopez,m,1972,Saint Martin
+Magdalen,Nieves,f,1950,Antarctica (the territory South of 60 deg S)
+Neal,Joyce,m,1987,Cook Islands
+Hedy,Mcmahon,f,1954,Latvia
+Russell,Hayden,f,1953,Pakistan
+Emmie,Cortez,f,1979,Costa Rica
+Yasmine,Cain,f,1966,Dominica
+Joshua,Watts,f,1992,American Samoa
+Wally,Wheeler,m,1958,Saint Vincent and the Grenadines
+Domenic,Ball,m,1955,Colombia
+Dorethea,Morse,f,1961,Korea
+Augustina,Huber,f,1989,Monaco
+Kasie,Vincent,f,1972,Uruguay
+Asley,Sweeney,f,1953,Seychelles
+Tyesha,Hubbard,f,1964,Iran
+Edwin,Mcclain,m,1995,Togo
+Ludivina,Jones,f,1957,Dominica
+Sherman,Hooper,m,1985,Panama
+Margene,Day,f,1976,Palestinian Territory
+Tiesha,Collier,f,1979,Slovenia
+Ardella,Calhoun,f,1952,Monaco
+Angelo,Evans,f,1966,Peru
+Leonida,Conrad,f,1973,Singapore
+Shad,Willis,m,1972,Cayman Islands
+Randa,Chase,f,1968,Czech Republic
+Sammie,Carver,m,1970,Jamaica
+Quinn,Price,f,1955,Egypt
+Deonna,Mcclure,f,1978,Solomon Islands
+Vernetta,Osborne,f,1953,Northern Mariana Islands
+Lakita,Ball,f,1951,Cocos (Keeling) Islands
+Sheryll,Gilmore,f,1980,Vanuatu
+Jesenia,Stephens,f,1953,Tunisia
+Avery,Gay,m,1957,Cuba
+Jesse,Rutledge,m,1961,Anguilla
+Mauro,Wilson,m,1956,Cambodia
+Ciera,Frazier,f,1951,Swaziland
+German,House,m,1956,Cocos (Keeling) Islands
+Scot,Robinson,m,1956,Myanmar
+Angla,Brown,f,1955,Haiti
+Rachele,Pittman,f,1962,Senegal
+Janean,Pickett,f,1950,Panama
+Ching,Anderson,f,1962,Kazakhstan
+Rozella,Nelson,f,1989,Jordan
+Luna,Jackson,f,1960,Montenegro
+Dave,Barrera,m,1961,Lithuania
+Dalton,Morales,m,1969,Gibraltar
+Larry,Ballard,m,1981,Zambia
+Clay,Meyers,m,1952,Cape Verde
+Duncan,Mcguire,m,1965,Bosnia and Herzegovina
+Ula,Figueroa,f,1975,Cuba
+Loreen,Ballard,f,1981,Hungary
+Jamika,Hamilton,f,1951,Finland
+Dede,Francis,f,1956,Kenya
+Hiroko,Herman,f,1966,Romania
+Neida,Caldwell,f,1965,Niger
+Erin,Tillman,m,1978,Mauritius
+Leonard,Brooks,m,1971,Montenegro
+Dario,Bernard,m,1952,Western Sahara
+Craig,Cortez,m,1955,Malta
+Clyde,Macdonald,m,1956,Belarus
+Meridith,Bishop,f,1980,Svalbard & Jan Mayen Islands
+Keneth,Sykes,m,1974,Brazil
+Theodore,Maxwell,m,1970,Wallis and Futuna
+Jonell,Talley,f,1973,Nigeria
+Makeda,Chavez,f,1961,Burkina Faso
+Maile,Macdonald,f,1984,Zambia
+Gonzalo,Williamson,m,1956,Pakistan
+Latina,Wynn,f,1974,France
+Ignacio,Wall,m,1977,Indonesia
+Millard,Fischer,m,1981,Belize
+Celine,James,f,1984,Mongolia
+Audrea,Frost,f,1960,Malawi
+Columbus,Sharp,m,1981,Saint Helena
+John,Haynes,m,1960,Argentina
+Joline,Norris,f,1965,Angola
+Shay,Robbins,f,1950,Svalbard & Jan Mayen Islands
+Ronni,Boyle,f,1952,Saint Martin
+Lowell,Kim,m,1954,Japan
+Mose,Petty,m,1967,Micronesia
+Sergio,Castro,m,1961,Oman
+Ivey,Coffey,f,1953,Chad
+Dion,Marsh,f,1951,South Africa
+Sheba,Hays,f,1973,Saudi Arabia
+Guy,Norton,m,1993,Cote d'Ivoire
+Julienne,Rose,f,1991,Monaco
+Lemuel,Jordan,m,1951,Timor-Leste
+Xavier,Schneider,m,1966,Bahrain
+Toney,Rice,m,1959,Colombia
+Nestor,Collier,m,1956,Macao
+Jen,Hess,f,2002,Germany
+Allena,Riley,f,1958,Burkina Faso
+Heike,Rivers,f,1992,Kazakhstan
+Maira,Stone,f,1973,Albania
+Kirk,Meadows,m,1981,Algeria
+Brendon,Gibbs,m,1996,Chad
+Billye,Gilbert,f,1953,Vanuatu
+Alphonse,Copeland,m,1961,Egypt
+Katharina,Wolfe,f,1950,British Indian Ocean Territory (Chagos Archipelago)
+Elisha,Snider,m,1964,Turks and Caicos Islands
+Gordon,Gomez,m,1958,Tonga
+Tod,Flynn,m,1950,Macedonia
+Tonisha,Chan,f,1957,Dominica
+Catarina,Roberts,f,1976,Svalbard & Jan Mayen Islands
+Malik,Hall,m,1953,Hong Kong
+Loni,Dominguez,f,1953,Greenland
+Javier,Jenkins,m,1951,Dominican Republic
+Elizabeth,Sanford,f,1961,Philippines
+Kurtis,Meadows,m,1958,Tokelau
+Michelina,Potts,f,1974,Panama
+Noel,Tran,m,1962,Togo
+Marco,Tran,m,1959,Heard Island and McDonald Islands
+Betsey,Rodgers,f,1978,Zambia
+Wenona,Stark,f,1951,Suriname
+Warner,Harvey,m,1950,Nepal
+Manual,Mayer,m,1961,Somalia
+Sumiko,Jones,f,1953,Uzbekistan
+Denae,Randolph,f,1956,Korea
+Joselyn,Gonzales,f,1950,Papua New Guinea
+Somer,Santiago,f,1969,Guam
+Heide,Reid,f,1971,Martinique
+Marion,Britt,m,1950,Anguilla
+Dominick,Pate,m,1955,New Zealand
+Martin,Williams,m,1978,Maldives
+Jerrod,Mendez,m,1972,China
+Federico,Small,m,1951,Brazil
+Benedict,Rosa,m,1971,Macao
+Burma,Heath,f,1965,South Africa
+Margurite,Ortega,f,1955,Kuwait
+Alane,Mullen,f,1956,Portugal
+Michal,Shaffer,f,1974,Christmas Island
+Phillip,Williamson,m,1995,Ghana
+Lane,Gomez,m,1963,Togo
+Nadene,Morrison,f,1967,Croatia
+Shaquana,Carpenter,f,1966,Uzbekistan
+Norberto,Vinson,m,1972,Montenegro
+Marcus,Sanchez,m,1959,Madagascar
+Camie,Gardner,f,1950,Mali
+Dewayne,Steele,m,1979,Andorra
+Brigida,Hancock,f,1965,Burkina Faso
+Elbert,Flores,m,1952,Cameroon
+Hedy,Castillo,f,1968,Nauru
+Clair,Raymond,m,1975,Nepal
+Fleta,Love,f,1965,United States Virgin Islands
+Demetrius,Nguyen,f,1952,Honduras
+Jean,Schwartz,m,1959,Benin
+Graham,Allison,m,1967,Saint Helena
+Florencio,Jensen,m,1992,Suriname
+Gerald,Holcomb,f,1980,Reunion
+Douglas,Pitts,m,1952,Swaziland
+Elene,Manning,f,1990,Pakistan
+Jess,Klein,m,1967,Armenia
+Deloras,Bean,f,1960,Syrian Arab Republic
+Lino,Roy,m,1961,Cuba
+Crista,Neal,f,1974,Benin
+Santiago,Mckee,m,1986,Albania
+Luba,Mcpherson,f,1954,Croatia
+Fernando,Parsons,m,1959,Kuwait
+Sung,Roberts,f,1961,Rwanda
+Craig,Booker,m,1960,Turkey
+Marlin,Lambert,m,1961,Jersey
+Lorriane,Horn,f,1971,Aruba
+Jamar,Lambert,m,1955,Micronesia
+Wally,Atkins,m,1967,Tuvalu
+Roland,Adkins,m,1978,Singapore
+Kristian,Tran,f,1959,Sao Tome and Principe
+Sharie,Harper,f,1974,Korea
+Emerson,Serrano,m,1960,Saint Vincent and the Grenadines
+Alvera,Cooper,f,1980,Turkey
+Dallas,Holloway,f,1954,United States of America
+Reginald,Greer,m,1972,Gambia
+Mauricio,Sosa,m,1971,French Polynesia
+Tish,Reeves,f,1988,Burundi
+Trevor,Patterson,m,1962,Puerto Rico
+Fermin,Stephenson,m,1956,Turkmenistan
+Ismael,Bowen,m,1967,Vanuatu
+Garnett,Tyler,f,1962,Hong Kong
+Christoper,Haley,m,1990,Finland
+Alethea,Monroe,f,1954,Togo
+Omer,Nelson,m,1951,Morocco
+Synthia,Spears,f,1951,Albania
+Sommer,Kidd,f,1972,Wallis and Futuna
+Sol,Davidson,m,1952,Niue
+Ji,Sloan,f,1951,Slovenia
+Tamica,Kaufman,f,1953,Bosnia and Herzegovina
+Jaymie,Mcpherson,f,1956,Algeria
+Beverlee,Hendrix,f,1982,Guinea
+Conception,Herman,f,1953,Suriname
+Camie,Sosa,f,1960,Comoros
+Santos,Watts,m,1952,Guyana
+Dannie,Bolton,m,1954,Greenland
+Stefan,Hooper,m,1952,Suriname
+Moshe,Byers,m,1973,Japan
+Avril,Case,f,1967,Oman
+Tory,Ewing,m,1953,Morocco
+Alfonzo,Adams,m,1950,Costa Rica
+Talitha,Mathis,f,1980,Jordan
+Madelaine,Nguyen,f,1958,Mauritius
+Steffanie,Mack,f,1950,Panama
+Rex,Brooks,m,1968,Liberia
+Elenore,Schultz,f,1993,United States of America
+Austin,Savage,f,1955,Gabon
+Sheilah,Mcleod,f,1964,Turkey
+Lawrence,Watts,m,1955,Puerto Rico
+Odell,Fuller,m,1975,Albania
+Maira,Ford,f,1984,South Africa
+Magaly,Ayers,f,1957,Ecuador
+Ligia,Bishop,f,1958,Saint Martin
+Britany,Gill,f,1962,Sao Tome and Principe
+Jone,Hughes,f,1971,Saint Helena
+Boyd,Hodges,m,1987,Comoros
+Lance,Blackburn,m,1953,French Polynesia
+Cassi,Barnett,f,1961,Bangladesh
+Bennie,Rollins,m,1961,Mozambique
+Marcelene,Santiago,f,1962,Eritrea
+Clement,Romero,m,1953,Jordan
+Brandon,Burke,m,1974,Lebanon
+Alexis,Tyler,m,1978,Venezuela
+Felix,Alvarez,m,1954,Tanzania
+Shane,Schroeder,f,1976,Iran
+Lonnie,Browning,m,1951,South Africa
+Mafalda,Ryan,f,1960,Niger
+Horacio,Russell,m,1953,Suriname
+Lindsy,Mcfarland,f,1976,Spain
+Elwood,Booth,m,1960,French Southern Territories
+Joaquin,Cherry,m,1962,Yemen
+Annalisa,Mann,f,1953,Cayman Islands
+Lauryn,Buck,f,1967,Palau
+Garry,Cherry,m,1965,Mongolia
+Kieth,Horton,m,1986,San Marino
+Yanira,Davis,f,1973,Montserrat
+Anamaria,Salas,f,1968,Jordan
+Leon,Sullivan,f,1970,Ecuador
+Blondell,Sheppard,f,1965,Rwanda
+Mozella,Rowland,f,1976,Burundi
+Zulema,Mcknight,f,1964,Rwanda
+Dreama,Padilla,f,1977,Slovenia
+Alex,Beard,m,1953,Western Sahara
+Mary,Hines,m,1957,Comoros
+Antoine,Hughes,m,1980,Martinique
+Misha,Macias,f,1962,British Virgin Islands
+Takisha,Frost,f,1967,Netherlands
+Brenton,Ware,m,1951,Italy
+Lyndia,Peters,f,1977,New Caledonia
+Morris,Montoya,m,1958,United Kingdom
+Lester,Roberts,m,1963,Estonia
+Colby,Giles,m,1991,Cocos (Keeling) Islands
+Stephane,Hoffman,f,1958,Korea
+Karly,Stout,f,1984,Spain
+Jc,Long,m,1957,Turkmenistan
+Ernest,Rosales,m,1950,Uganda
+Allegra,Cantu,f,1985,Spain
+Micheline,Johnson,f,1954,Western Sahara
+Wilton,Holmes,m,1952,Lebanon
+Jone,Sutton,f,1959,Saint Kitts and Nevis
+Vanesa,Thompson,f,1959,Austria
+Galen,Pugh,m,1950,Uzbekistan
+Hildegarde,Rivas,f,1950,Portugal
+Jere,Figueroa,m,1956,India
+Brain,Noble,m,1951,Switzerland
+Joannie,Singleton,f,1959,Uzbekistan
+Nyla,Mcgowan,f,1974,Saint Vincent and the Grenadines
+Bryan,Edwards,m,1977,Saint Barthelemy
+Augustus,Lindsey,m,1951,Vanuatu
+Alden,Delacruz,m,1951,Aruba
+Rick,Stokes,m,1958,Pakistan
+Ronny,Dunn,m,1952,Austria
+Jackson,Keller,m,1980,Greece
+Manual,Cooley,m,1956,Somalia
+Verlie,Reilly,f,1981,Iceland
+James,Barr,m,1962,French Southern Territories
+Antonio,Villarreal,m,1956,Brazil
+Benedict,Flynn,m,1953,Nepal
+Granville,Palmer,m,1951,Lebanon
+Tandy,Mccoy,f,1958,Mayotte
+Parker,Carroll,m,1989,Comoros
+Chong,James,m,1952,Timor-Leste
+Leonore,Snider,f,1959,Bouvet Island (Bouvetoya)
+Dewayne,Benson,m,1981,Norway
+Veta,Peterson,f,1982,Brunei Darussalam
+Keven,Cannon,m,1950,Bosnia and Herzegovina
+Elvin,Duran,m,1961,Bulgaria
+Jesus,Lynch,m,1962,Belgium
+Nguyet,Woods,f,1958,Portugal
+Jarred,Lee,m,1961,Northern Mariana Islands
+Margarito,Valenzuela,m,1992,Hong Kong
+Maria,Craig,m,1953,Brunei Darussalam
+Mahalia,Patel,f,1971,Monaco
+Derrick,Vargas,m,1952,Cayman Islands
+Bruno,Graves,m,1953,Saint Helena
+Millard,Hood,m,1961,Ecuador
+Newton,Carroll,m,1956,Tuvalu
+Gale,Thornton,m,1984,Mexico
+Masako,Johns,f,1950,Netherlands Antilles
+Rashad,Hahn,m,1980,Puerto Rico
+Desire,Gonzalez,f,1959,Indonesia
+Carmon,Elliott,f,1970,Mauritius
+Danika,Glover,f,1965,United States Minor Outlying Islands
+Gerard,House,m,1973,Portugal
+Broderick,Santiago,m,1965,Spain
+Lemuel,Miles,m,1965,Cook Islands
+Gerard,Hardin,m,1959,Algeria
+Augustus,Skinner,m,1952,Tuvalu
+Quintin,Hughes,m,1982,Azerbaijan
+Dwain,Alexander,m,1959,South Georgia and the South Sandwich Islands
+Shala,Brewer,f,1954,Bouvet Island (Bouvetoya)
+Dominick,Martin,m,1954,Costa Rica
+Claretha,Tucker,f,1954,Samoa
+Gus,May,m,1958,Turkey
+Twanda,Cohen,f,1952,Trinidad and Tobago
+Ariane,Brewer,f,1962,France
+Taneka,Stokes,f,1959,Brazil
+Son,Hunter,m,1966,Guyana
+Efren,Flowers,m,1972,Hungary
+Lean,Hammond,f,1984,Falkland Islands (Malvinas)
+Saran,Case,f,1983,Guinea
+Isa,Mcknight,f,1984,Saudi Arabia
+Birgit,Fulton,f,1969,Togo
+Devin,Berg,m,1969,United Arab Emirates
+Angele,Fry,f,1985,Canada
+Sachiko,Kirkland,f,1967,Djibouti
+Christoper,Fernandez,m,1960,British Virgin Islands
+Jesenia,Fischer,f,1978,Serbia
+Israel,Dale,m,1974,Anguilla
+Dane,Foreman,m,1969,Nauru
+Diego,Spence,m,1975,Honduras
+Hal,Andrews,m,1959,Palestinian Territory
+Larry,Rodgers,f,1964,Tonga
+Regenia,Villarreal,f,1990,Honduras
+Hiram,Good,m,1973,Netherlands Antilles
+Sylvester,Good,m,1953,Belarus
+Micha,Cash,f,1972,Comoros
+Lasonya,Estrada,f,2004,Nauru
+Haywood,Clark,m,1950,Guadeloupe
+Darren,Moody,m,1971,Timor-Leste
+Ivory,Lancaster,m,1951,Morocco
+Milan,Macias,m,1970,Saint Kitts and Nevis
+Luis,Contreras,m,1959,Libyan Arab Jamahiriya
+Clemencia,Glenn,f,1960,India
+Terrell,David,f,1974,Turkey
+Cuc,Dodson,f,1958,Switzerland
+Horacio,Ingram,m,1955,Japan
+Magan,Crane,f,1954,Tonga
+Amee,Rich,f,1962,Ghana
+Herman,Gonzalez,m,1971,Bouvet Island (Bouvetoya)
+Jere,Cochran,m,1956,Ireland
+Lenard,Justice,m,1960,Somalia
+Eddie,Gould,m,1955,Western Sahara
+Chadwick,Gardner,m,1956,Slovenia
+Osvaldo,Mclean,m,1950,Suriname
+Ernesto,Thomas,m,1964,Pakistan
+Rikki,Stokes,f,1967,Moldova
+Randolph,Morris,m,1973,Puerto Rico
+Theo,Bright,m,1970,Morocco
+Mac,Jefferson,m,1962,Moldova
+Tynisha,Blanchard,f,1957,Zimbabwe
+Mariano,Navarro,m,1960,Taiwan
+Garland,Barnes,m,1950,France
+Alberto,Brown,m,1952,Pitcairn Islands
+Franklyn,Fuller,m,1978,Chad
+Alvaro,Dixon,m,1964,Macedonia
+Moises,Washington,m,1972,Guam
+Janee,Lucas,f,1951,Ireland
+Buddy,Landry,m,1952,Guam
+Chanell,Bolton,f,1959,Guinea-Bissau
+Renda,Lee,f,1950,Botswana
+Dalton,Cantu,m,1955,Haiti
+Tonie,Hensley,f,1954,Croatia
+Donnetta,Wilkins,f,1952,Andorra
+Whitley,Ayers,f,1992,Wallis and Futuna
+Darrick,Mann,m,1985,Western Sahara
+Jeanmarie,Mendoza,f,1959,British Virgin Islands
+Laure,Beck,f,1962,Saint Lucia
+Thad,Talley,m,1953,Belize
+Leonard,Steele,m,1967,Libyan Arab Jamahiriya
+Agnus,Cox,f,1956,Saint Helena
+Ming,Roberson,f,1978,Portugal
+Aracelis,Johnson,f,1970,Montserrat
+Zana,Bender,f,1955,Namibia
+Reed,Hall,m,1964,Guernsey
+Elane,Olsen,f,1957,Estonia
+Reynaldo,Phelps,m,1964,Barbados
+Rigoberto,Mueller,m,1960,Reunion
+Parthenia,Levy,f,1971,Saudi Arabia
+Bobette,Reese,f,1950,Lesotho
+Herb,Lang,m,1963,Falkland Islands (Malvinas)
+Jan,Stanley,m,1954,Congo
+Minda,Ferrell,f,1959,Timor-Leste
+Teddy,Henry,m,1964,Jordan
+Arthur,Hampton,f,1954,Chad
+Garland,Hendrix,m,1974,Haiti
+Randal,Eaton,m,1950,Malta
+Minh,Chan,m,1969,Maldives
+Rafael,Watts,m,1957,Turks and Caicos Islands
+Marinda,Decker,f,1982,Equatorial Guinea
+Ben,Coffey,m,1953,Saint Pierre and Miquelon
+Ward,Quinn,m,1969,Brunei Darussalam
+Larry,Cotton,m,1968,Haiti
+Brice,Morales,m,1970,Qatar
+Anton,Cohen,m,1951,Svalbard & Jan Mayen Islands
+Everett,Estes,m,1957,Ecuador
+Johnathon,Alford,m,1956,Samoa
+Haywood,Watts,m,1958,Tanzania
+Carolin,Cortez,f,1962,Uruguay
+Tama,Mathis,f,1963,Puerto Rico
+Tyesha,Battle,f,1965,Taiwan
+Sharilyn,Taylor,f,1982,Malaysia
+Carl,Garrison,m,1980,Antigua and Barbuda
+Randy,Madden,m,1983,Guernsey
+John,Carter,m,1962,Portugal
+Carter,Hatfield,m,1963,Belgium
+Mac,Wallace,m,1954,Turkmenistan
+Randell,Haney,m,1954,Saint Kitts and Nevis
+Dorine,Mayo,f,1969,Haiti
+Rashad,Estes,m,1992,Lao People's Democratic Republic
+Jerrica,Duran,f,1959,Uganda
+Vivien,Mckay,f,1955,Syrian Arab Republic
+Moshe,Ortega,m,1983,Mexico
+Wilbert,Justice,m,1985,Andorra
+Eugena,Dotson,f,1955,Mali
+Jaquelyn,Mcdowell,f,1954,Tuvalu
+Ignacia,Gonzalez,f,1957,British Indian Ocean Territory (Chagos Archipelago)
+Cyrus,Blake,m,1953,Comoros
+Erasmo,Gilbert,m,1974,Azerbaijan
+Lexie,Whitaker,f,1967,Cook Islands
+Jacqualine,Ball,f,1958,Hong Kong
+Connie,Shaw,m,1968,Ukraine
+Stephnie,Rush,f,1950,Saint Martin
+Dominick,Ayala,m,1997,Cambodia
+Raye,Lane,f,1963,Malawi
+Cherilyn,Reyes,f,1971,Sao Tome and Principe
+Michaele,Foley,f,1953,El Salvador
+Ayanna,Hines,f,1985,Estonia
+Julio,Ramos,f,1952,Ethiopia
+Kandace,Willis,f,1954,Lithuania
+Phil,Burnett,m,1978,Cayman Islands
+Lupe,Mcfarland,m,1959,Thailand
+Donny,Allison,m,1954,Cuba
+Winfred,Clark,m,1964,Israel
+Nick,Patrick,m,1973,Croatia
+Sharell,Hinton,f,1956,Thailand
+Sherwood,Bowers,m,1953,Togo
+Virgilio,Frye,m,1952,Korea
+Von,Sawyer,m,1973,Lebanon
+Fredia,Cameron,f,1992,Saint Vincent and the Grenadines
+Theo,Fitzgerald,m,1972,Bahrain
+Preston,Nolan,m,1950,Micronesia
+Mikaela,Patrick,f,1974,Cocos (Keeling) Islands
+Tristan,Quinn,f,1989,Barbados
+Wiley,Bond,m,1955,United States of America
+Nancey,Small,f,1965,Germany
+Ashlea,Everett,f,1957,Guyana
+Warner,Frye,m,1962,Peru
+Barney,Mooney,m,1972,Egypt
+Merlin,Lyons,m,1961,Portugal
+Erich,Richards,m,1954,Nicaragua
+Daniele,Cole,f,1950,Saint Pierre and Miquelon
+Veta,Griffith,f,1958,Russian Federation
+Bryan,Juarez,m,1958,New Caledonia
+Humberto,Mosley,m,1956,Norfolk Island
+Hedy,Bryant,f,1959,Senegal
+Elmer,Wilkinson,m,1986,Guinea
+Clark,Whitfield,m,1952,Japan
+Lamont,Bridges,m,1971,Moldova
+Dimple,Hogan,f,1967,Hungary
+Daniel,Barrera,m,1950,Australia
+Merrie,Riddle,f,1956,Mayotte
+Rufina,Olson,f,1974,Andorra
+Kimber,Fletcher,f,1971,El Salvador
+Bruno,Curry,m,1974,Korea
+Celesta,Camacho,f,1957,Cocos (Keeling) Islands
+Jacquie,Brennan,f,1957,Romania
+Nicolas,Jarvis,m,1977,Turkey
+Gaston,Gilliam,m,1954,Saint Martin
+Arturo,Castaneda,m,1971,Australia
+Serita,Salinas,f,1972,India
+Xochitl,Head,f,1954,Vietnam
+Narcisa,Warren,f,1950,Hong Kong
+Max,Dyer,m,1966,Eritrea
+Jonathon,Ryan,m,1997,Nauru
+Mayola,Bender,f,1978,Pitcairn Islands
+Melany,Ferrell,f,1958,Tunisia
+Mellie,Kline,f,1961,Turkmenistan
+Anthony,Hess,m,1954,Saint Kitts and Nevis
+Jarred,House,m,1972,Bouvet Island (Bouvetoya)
+Amado,Ross,m,1970,Romania
+Mose,Daugherty,m,1980,Angola
+Cecila,Gilliam,f,1981,Korea
+Sammy,Kemp,m,1972,Germany
+Emilee,Mayer,f,1956,Puerto Rico
+Eric,Fry,m,1958,Niger
+Erminia,Sharp,f,1985,Georgia
+Doretta,Ramirez,f,1974,Venezuela
+Shawn,Alexander,m,1953,Guinea-Bissau
+Raymon,Fuller,m,1959,Guadeloupe
+Virgilio,Thompson,m,1960,South Georgia and the South Sandwich Islands
+Kory,Munoz,m,1951,Ukraine
+Santo,Malone,m,1980,Iceland
+Cherish,Ayala,f,1956,Malaysia
+Branden,Sanders,m,1957,Aruba
+Milo,Parks,m,1956,Mozambique
+Keith,Caldwell,m,1990,Peru
+Takisha,Buckner,f,1960,Cocos (Keeling) Islands
+Pablo,Hendricks,m,1972,Zambia
+Torie,Morton,f,1965,Chile
+Arla,Caldwell,f,1978,Bolivia
+Dorsey,Crane,m,1966,Netherlands Antilles
+Darryl,Lynn,m,1963,Martinique
+Kareem,Wells,m,1954,Korea
+Lacy,Kirk,m,1967,Kyrgyz Republic
+Stuart,Evans,m,1952,Finland
+Ossie,Schmidt,f,1953,Moldova
+Jay,Simmons,m,1997,Saint Lucia
+Houston,Moreno,m,1953,Guyana
+Mariel,Vega,f,1972,United States of America
+Eustolia,Joseph,f,1989,Serbia
+Neal,Clemons,m,1968,Wallis and Futuna
+Mac,Boyle,m,1951,United States Virgin Islands
+Toccara,Baldwin,f,1950,Anguilla
+Tayna,Wagner,f,1968,Tanzania
+Geoffrey,Russo,m,1961,Luxembourg
+Stanley,Osborne,m,1959,Holy See (Vatican City State)
+Dale,Wilkerson,m,1958,Nicaragua
+Myrle,Goff,f,1951,Guernsey
+Isis,Nguyen,f,1967,Canada
+Emil,Atkinson,m,1951,Cocos (Keeling) Islands
+Mack,Hawkins,m,1963,Andorra
+Lamar,Ryan,m,1959,Heard Island and McDonald Islands
+Karleen,Navarro,f,1984,Belize
+Floretta,Wilkerson,f,1953,Croatia
+Hershel,Henderson,m,1972,Sudan
+Milagro,Guy,f,1965,Kiribati
+Makeda,Myers,f,1955,Ireland
+Isiah,Burns,m,1951,Mauritania
+Dacia,Pickett,f,1955,Iran
+Laurine,Gentry,f,1951,Norway
+Carrol,Avery,m,1971,Dominican Republic
+Darren,Beard,m,1952,Djibouti
+Ellamae,Wood,f,1981,Nepal
+August,Dunlap,m,1968,Israel
+Jon,Ayers,m,1972,Macedonia
+Ben,Edwards,m,1992,Andorra
+Janita,Pearson,f,1962,Iran
+Pat,Blevins,m,1950,Palau
+Loris,Solomon,f,1968,Lao People's Democratic Republic
+Edmund,Bond,m,1965,Mayotte
+Yevette,Harrington,f,1970,Belize
+Carlos,Norton,m,1961,Myanmar
+Selene,Myers,f,1970,Burkina Faso
+Eldon,Blanchard,m,1995,Malawi
+Saul,Hahn,m,1965,Cook Islands
+Verdie,Garza,f,1954,Afghanistan
+Mallie,Chapman,f,1969,Ghana
+Verline,Conrad,f,1952,Comoros
+Annabell,Valdez,f,1957,Sudan
+Georgene,Kirkland,f,1954,Kazakhstan
+Morris,Cotton,m,1967,Saint Lucia
+Jackqueline,Vaughan,f,1959,Argentina
+Maynard,Graham,m,1952,Belgium
+Jimmie,Head,m,1951,Isle of Man
+Olevia,Bryant,f,1964,Suriname
+Maryrose,Butler,f,1956,Slovenia
+Paul,Benton,m,1955,Cuba
+Jestine,Campbell,f,1954,Togo
+Joe,Cooper,m,1955,Belize
+Azucena,Pollard,f,1963,Western Sahara
+Margaretta,Buckley,f,1958,Puerto Rico
+Bee,Burke,f,1993,Cuba
+Elias,Rios,m,1962,British Virgin Islands
+Rich,Carter,m,1955,Iceland
+Neville,Franklin,m,1951,Tajikistan
+Leroy,Chen,m,1953,Sudan
+Julian,Fields,m,1971,Congo
+Weldon,Donovan,m,1960,Equatorial Guinea
+Claude,Griffin,f,1952,Liechtenstein
+Kandace,Wilcox,f,1974,Burundi
+Jared,Welch,m,1962,Paraguay
+Drucilla,Bowman,f,1959,Indonesia
+Thaddeus,Middleton,m,1973,Liberia
+Douglas,Talley,m,1980,Croatia
+Joshua,Cabrera,f,1963,Denmark
+Marinda,Gross,f,1950,Oman
+Latrisha,Rodriguez,f,1954,Trinidad and Tobago
+September,Garza,f,1958,France
+Ervin,Graham,m,1952,Croatia
+August,Fletcher,m,1962,Anguilla
+Vannesa,Mendoza,f,1965,Korea
+Charlie,Bowen,m,1965,Portugal
+Ed,Shaw,m,1954,Mauritius
+Ellan,Stout,f,1980,Niger
+Olin,Townsend,m,1957,Falkland Islands (Malvinas)
+Lenard,Robles,m,1970,Tokelau
+Sha,Rivera,f,1958,Zimbabwe
+Jonah,Small,m,1960,Marshall Islands
+Joye,Knowles,f,1951,Korea
+Arlie,Martinez,m,1977,Trinidad and Tobago
+Ivory,Curtis,m,1987,Tuvalu
+Clemente,Dotson,m,1951,Tuvalu
+Perry,Kidd,m,1967,Pakistan
+Milford,Smith,m,1980,New Zealand
+Anisa,Howe,f,1957,Liechtenstein
+Bev,Chavez,f,1954,Honduras
+Gigi,Andrews,f,1976,Dominica
+Tod,Avila,m,1975,Bhutan
+Erin,Tucker,m,1964,British Indian Ocean Territory (Chagos Archipelago)
+Natalya,Gomez,f,1959,Antigua and Barbuda
+Ceola,Jefferson,f,1966,Faroe Islands
+Kymberly,Meyer,f,1960,Croatia
+Carley,Marshall,f,1980,Tokelau
+Digna,Lara,f,1951,Greece
+Marlen,Pennington,f,1959,Costa Rica
+Amos,Vaughan,m,1971,Pitcairn Islands
+Liberty,Espinoza,f,1961,French Polynesia
+Eli,Ratliff,m,1996,Heard Island and McDonald Islands
+Ernesto,Cotton,m,1955,Zambia
+Francesco,Ayala,m,1960,Seychelles
+Rogelio,Bullock,m,1975,Australia
+Alvaro,Snow,m,1956,Taiwan
+Raye,Roth,f,1952,Svalbard & Jan Mayen Islands
+Florentino,Mcpherson,m,1963,Christmas Island
+Shaun,Herrera,f,1951,Nauru
+Jeffrey,Bryant,m,1959,Faroe Islands
+Aiko,Delgado,f,1965,Afghanistan
+Kalyn,Wagner,f,1976,Slovenia
+Liberty,Padilla,f,1961,Turkmenistan
+Louanne,Hart,f,1954,Liechtenstein
+Arlinda,Stanton,f,1956,Portugal
+Tayna,Austin,f,1961,Barbados
+Kristofer,Morales,m,1960,United Arab Emirates
+Dominic,William,m,1972,Mozambique
+Rigoberto,Larsen,m,1957,Finland
+Victorina,Holden,f,1957,Congo
+Federico,Harmon,m,1955,Saint Kitts and Nevis
+Kimbra,Peterson,f,1961,Jersey
+Ira,English,m,1957,Israel
+Annelle,Buck,f,1969,Jamaica
+Rheba,O'neill,f,1955,Slovenia
+Sean,Hancock,m,1988,Tanzania
+Aldo,Cohen,m,1952,Morocco
+Sonny,Richmond,m,1953,United Kingdom
+Lisha,Stevens,f,1967,Guadeloupe
+Jackson,Flores,m,1990,Ecuador
+Bennett,Gibbs,m,1962,Netherlands Antilles
+Virgil,Singleton,m,1961,Honduras
+Eldon,Petty,m,1959,Panama
+Keneth,Mcdowell,m,1980,Central African Republic
+Aleida,Stephens,f,1954,Montenegro
+Ruben,Manning,m,1984,Lebanon
+Elden,Estes,m,1955,Belarus
+Yoko,Nguyen,f,1976,Finland
+Corliss,Hill,f,1963,Liechtenstein
+Lorette,Mcleod,f,1989,Guinea-Bissau
+Dee,Burris,m,1964,Spain
+Jae,Blevins,m,1988,Bangladesh
+Bernard,Bradshaw,m,1952,Mayotte
+Zana,Atkins,f,1972,Iran
+Buford,Mitchell,m,1965,Mayotte
+Amira,Roman,f,1970,Afghanistan
+Trevor,Herring,m,1955,Cook Islands
+Kourtney,Clements,f,1958,Guyana
+Major,Davenport,m,1958,Dominican Republic
+Kristofer,Banks,m,1996,Northern Mariana Islands
+Terrance,Shaffer,m,1978,Libyan Arab Jamahiriya
+Alane,Gomez,f,1954,French Guiana
+Jorge,Wallace,m,1959,American Samoa
+Tammara,Bush,f,1961,South Georgia and the South Sandwich Islands
+Lorita,Charles,f,1965,New Caledonia
+Horacio,Norton,m,1950,Gabon
+Micheal,Johnston,m,1951,Italy
+Alysa,Luna,f,1979,Guinea
+Nu,Poole,f,1959,Kenya
+Jody,Anthony,m,1955,Saint Pierre and Miquelon
+Sharen,Harmon,f,1954,Saint Helena
+Brady,Fuentes,m,1962,Austria
+Nicholas,Wright,m,1963,Tajikistan
+Carmina,Atkins,f,1970,Philippines
+Tamisha,Hayes,f,1964,South Africa
+Twanda,Sheppard,f,1968,Bouvet Island (Bouvetoya)
+Lashawnda,Shannon,f,1974,Belarus
+Tona,Goff,f,1958,Bolivia
+Malka,Valentine,f,1950,Brunei Darussalam
+Marvis,Knight,f,1952,Heard Island and McDonald Islands
+Omer,Chen,m,1984,Cocos (Keeling) Islands
+Eliseo,Bennett,m,1952,Sudan
+Jone,Pollard,f,1955,Lao People's Democratic Republic
+Genna,Bowen,f,1953,Seychelles
+Jenell,Diaz,f,1970,Comoros
+Epifania,Buckner,f,1966,Panama
+Lorita,Santana,f,1953,Turkmenistan
+Phylicia,Manning,f,1951,Estonia
+Doloris,Hanson,f,1953,China
+Marielle,Camacho,f,1964,Malta
+Lanora,Garcia,f,1985,Canada
+Thi,Velazquez,f,1965,Cayman Islands
+Nieves,Bishop,f,1957,Argentina
+Fermina,Copeland,f,1961,Christmas Island
+Norberto,Morrow,m,1967,Switzerland
+Leisha,Cervantes,f,1951,Singapore
+Miguelina,Roberson,f,1957,Svalbard & Jan Mayen Islands
+Claris,Bradley,f,1958,Brunei Darussalam
+Hunter,Potts,m,1968,Turks and Caicos Islands
+Carroll,Bauer,m,1950,Pakistan
+Gennie,Chan,f,1986,Korea
+Bernarda,Bradshaw,f,1959,Guadeloupe
+Jose,Glenn,m,1954,Saint Helena
+Iesha,Pratt,f,1953,Sweden
+Eusebia,Walsh,f,1950,Mexico
+Slyvia,Hopkins,f,1956,Hong Kong
+Lonna,Ferguson,f,1956,Latvia
+Natisha,Baird,f,1962,Togo
+Donetta,Duffy,f,1950,Syrian Arab Republic
+Elmo,Hess,m,1956,Finland
+Irving,Mercado,m,1951,Uzbekistan
+Dave,Howard,m,1971,Faroe Islands
+Armand,Lang,m,1988,Hungary
+Sam,Barlow,m,1963,Tanzania
+Marybelle,Gould,f,1959,Mali
+Chadwick,Shields,m,1963,Togo
+Vivienne,Eaton,f,1966,Central African Republic
+Ewa,Best,f,1965,Tunisia
+Lindsay,Villarreal,m,1963,Heard Island and McDonald Islands
+Tayna,Howell,f,1965,Uganda
+Ellis,Anthony,m,1958,Macedonia
+Shenika,Reid,f,1958,Serbia
+Desmond,Ortega,m,1969,Martinique
+Katheleen,Herring,f,1986,Bhutan
+Norman,Shannon,m,1972,Kyrgyz Republic
+Loma,Webb,f,1956,Norfolk Island
+Daysi,Gillespie,f,1989,Mexico
+Alva,Britt,m,1977,Guinea
+Kym,Stephenson,f,1965,Bosnia and Herzegovina
+Francisco,Townsend,m,1952,Jamaica
+Mitzie,Goff,f,1954,Hungary
+Chadwick,Gibbs,m,1957,Togo
+Genevie,Chen,f,1965,Switzerland
+Harland,Boone,m,1984,Bouvet Island (Bouvetoya)
+Tomika,Mcguire,f,1987,Malaysia
+Ollie,Ewing,m,1962,Eritrea
+Guy,Saunders,m,1956,Jamaica
+Bok,Hall,f,1958,Australia
+Queenie,Alvarez,f,1955,Papua New Guinea
+Ronnie,Morrow,m,1977,Lithuania
+Doretta,Ayers,f,1954,Senegal
+Brett,Shannon,f,1952,Bolivia
+Terrence,Lester,m,1951,Swaziland
+Khalilah,Snyder,f,1954,Saint Barthelemy
+Melodi,Hood,f,1950,United Kingdom
+Norah,Cantu,f,1953,Saint Martin
+Necole,Miller,f,1951,Norfolk Island
+Laine,Townsend,f,1979,Latvia
+Veola,Shannon,f,1951,Namibia
+Victor,Moore,m,1978,Colombia
+Hugo,Lindsay,m,1958,Nauru
+Rima,Short,f,1963,Nepal
+Deloras,Mendez,f,1970,Marshall Islands
+Geoffrey,Goff,m,1957,Angola
+Synthia,Benjamin,f,1958,Korea

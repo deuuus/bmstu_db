@@ -27,7 +27,7 @@ SELECT P.surname, P.name, P.birth_year,
 FROM (persons P JOIN musicians M ON P.id = M.id) JOIN music_groups G ON M.music_group_id = G.id
 WHERE M.music_group_id IN (SELECT music_group_id
                         FROM music_groups
-                        WHERE music_group_id = 123)
+                        WHERE music_group_id < 3)
 
 --5. Инструкция SELECT, использующая предикат EXISTS с вложенным подзапросом. 
 --Получить информацию о песнях, у которых есть видеоклип
@@ -237,6 +237,7 @@ WHERE country = 'Korea' AND distance > 50
 SELECT M.id, P.name, P.surname, P.birth_year,
        AVG(M.experience) OVER (PARTITION BY P.birth_year) AS avg_experience
 FROM persons P JOIN musicians M ON P.id = M.id
+ORDER BY avg_experience DESC
 
 --25. Оконные функции для устранения дублей.
 --Получение дублей на основе выделения мужчин и женщин в каждой стране, а затем удаление дублей.

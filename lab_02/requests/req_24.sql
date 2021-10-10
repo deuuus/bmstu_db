@@ -3,3 +3,4 @@
 SELECT M.id, P.name, P.surname, P.birth_year,
        AVG(M.experience) OVER (PARTITION BY P.birth_year) AS avg_experience
 FROM persons P JOIN musicians M ON P.id = M.id
+ORDER BY avg_experience DESC

@@ -189,10 +189,17 @@ for i in range(LEN_ALBUMS):
         if union.key == union_key:
             groups_in_union.append(union.music_group_id-1)
 
-    year_of_foundation = max([music_groups[key].year_of_foundation for key in groups_in_union])
-    year_of_breakup = min([music_groups[key].year_of_breakup for key in groups_in_union])
+    a1 = max([music_groups[key].year_of_foundation for key in groups_in_union])
 
-    release_year = randint(year_of_foundation, year_of_breakup)
+    #a2 = min([music_groups[key].year_of_breakup for key in groups_in_union])
+    a2 = 2021
+    for key in groups_in_union:
+        if music_groups[key].year_of_breakup <= 2021:
+            if a2 > music_groups[key].year_of_breakup:
+                a2 = music_groups[key].year_of_breakup
+
+    print(a1, a2)
+    release_year = randint(a1, a2)
     a = album(i + 1, release_year)
     albums.append(a)
 
